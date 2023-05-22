@@ -22,7 +22,7 @@
     - 인식의 정확도를 고려하여 resize.py를 통해 이미지를 확대 후 저장
 2)  - 채팅창 crop image를 다시 채팅 line을 검출할 수 있는 yolov5모델 (saved_models/line_detector.pt)를 통해서 채팅 line crop 이미지 아웃풋을 저장
     - 채팅 line crop 이미지를 resize.py를 통해 이미지를 확대 후 저장
-3)  - 채팅 line crop 이미지를 deep-text-recognition-benchmark 모델에 통과시켜 이미지에 있는 텍스트를 검출
+3)  - 채팅 line crop 이미지를 deep-text-recognition-benchmark 모델에 통과시켜 이미지에 있는 텍스트를 검출 
 <br><br><br>
 ## 실행 코드
 1) Chatting Window Detection (yolo 디렉터리 내에서)<br>
