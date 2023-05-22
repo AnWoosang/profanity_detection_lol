@@ -1,6 +1,7 @@
 # [profanity_detection_lol] - 리그오브레전드 채팅 욕설 검출을 위한 이미지 처리모델
 (Image Processing Model for League of Legends Chat Profanity Detection)<br><br><br>
 
+
 ## Purpose of this Model
  게임 내에서 특수문자등을 활용한 변칙적 비속어 검출을 하기 위해 리그 오브 레전드의 채팅을 포함한 인게임 화면 데이터 속에 채팅창과 문장을 검출하고 이를 텍스트화 한다.
 <br><br><br> 
