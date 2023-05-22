@@ -2,8 +2,9 @@
 (Image Processing Model for League of Legends Chat Profanity Detection)<br><br><br>
 
 ## Background
- 변칙적 혐오표현을 포함한 비속어 검출 모델을 개발하기 위해 해당 프로젝트를 진행하였습니다 <br>
- 해당 모델은 () repository에 있는 자연어처리 모델과 함께 사용하였으며, 저희가 진행한 부분에 대해서만 업로드를 했다는 점 참고 해주시면 감사하겠습니다.
+ 변칙적 혐오표현을 포함한 비속어 검출 모델을 개발하기 위해 해당 프로젝트를 진행하였습니다. <br>
+ 대표적으로 변칙적 혐오표현이 많이 등장하는 Realworld의 케이스를 찾고자 리그오브레전드라는 게임을 선정하였습니다. <br>
+ 해당 모델은 () repository에 있는 자연어처리 모델과 함께 사용하였으며, 저희가 진행한 부분에 대해서만 업로드를 했다는 점 참고 해주시면 감사하겠습니다.<br>
 <br><br><br> 
 
 ## Purpose of this Model
