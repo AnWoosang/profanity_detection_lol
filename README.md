@@ -23,6 +23,11 @@
 *훈련하고자 한다면 원래 Repository를 통해서 훈련 방법을 참고하세요
 
 <br><br><br>
+## Download Model
+- Detection 모델은 이미 포함되어 있음
+- Text-Recognition 모델 (https://drive.google.com/file/d/13GO1S61qnms_73YnIFOaBe1ZTHRuT_d-/view)
+- 위의 모델 파일을 다운받아 clova/saved_models에 넣어준다.
+
 ## Process
 1)  - 롤 인게임 화면 데이터에서 채팅창을 검출할 수 있는 yolov5모델 (saved_models/chat_window_detector.pt)을 통해서 채팅창 crop 이미지 아웃풋을 저장
     - 인식의 정확도를 고려하여 resize.py를 통해 이미지를 확대 후 저장
