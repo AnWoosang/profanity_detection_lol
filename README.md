@@ -31,6 +31,8 @@
 3)  - 채팅 line crop 이미지를 deep-text-recognition-benchmark 모델에 통과시켜 이미지에 있는 텍스트를 검출 
 <br><br><br>
 ## 실행 코드
+* image 디렉터리 내부에 채팅창을 포함하고 있는 롤 인게임 화면 이미지 데이터들을 넣는다.<br><br>
+
 1) Chatting Window Detection (yolo 디렉터리 내에서)<br>
 ```shell
 $ python3 detect.py --weights ./saved_models/chat_window_detector.pt --hide-labels --name chat_win --source image --classes 0 --save-crop --project ./chatwin --name result
