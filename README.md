@@ -25,11 +25,13 @@
 <br><br>
 ## Requirements
 - Yolo <br>
+
 ```shell
 pip3 install torch opencv-python pandas tqdm torchvision matplotlib seaborn numpy pillow
 ```
 <br><br>
 - Deep-text-recognition-benchmark<br>
+
 ```shell
 pip3 install lmdb natsort
 ```
