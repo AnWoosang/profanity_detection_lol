@@ -1,0 +1,8 @@
+path: /home/dntkd857/workspace/MyFiles/myfiles/total/yolo/yolov5/dataset
+train: train
+val: valid
+test: test
+
+nc: 4
+names: ['chat_win','nickname','lol_line', 'naver_line']
+

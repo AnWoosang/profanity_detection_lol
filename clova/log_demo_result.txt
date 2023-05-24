@@ -1,0 +1,1442 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double10_double-checkpoint.jpg	[11:34] 오 퉤 (신 짜오 잡자     	0.8910
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double11_double-checkpoint.jpg	[01:55] 인간제는지지 여루해요 미미스 포츈 머깟하고실네	0.0016
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double12_double-checkpoint.jpg	[11:39] 오 퉤 (신 짜오) 람까불어보자	0.2146
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double13_double-checkpoint.jpg	[11:22] 까편터 (다리우스) 생각    	0.1284
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double_double-checkpoint.jpg	[13: 인간쳐는지쿠해요 미스 포츈 이기든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지	0.0156
+resize_line_chatwin1000/.ipynb_checkpoints/data251_double13_double-checkpoint.jpg	[21:23] 짜 쓰 짜 스 (진): 니2을 	0.0401
+resize_line_chatwin1000/data126_double2_double.jpg	[11:33] 오 퉤 (신 자오님이 가고 있음 	0.5302
+resize_line_chatwin1000/data126_double3_double.jpg	[12:46] 소환사구경터 (오리아      	0.7823
+resize_line_chatwin1000/data126_double4_double.jpg	[14:4인 인간계는지지 해루해서 미스 프츈 진짜 는	0.0055
+resize_line_chatwin1000/data126_double5_double.jpg	^ [13:52] 인간계는지 투해요 미스스 프춘 (리이다 쎅	0.0026
+resize_line_chatwin1000/data126_double6_double.jpg	[13:24] 오 퉤 (신 자오님이 가고 있음 	0.3827
+resize_line_chatwin1000/data126_double7_double.jpg	vy-a 4w-w-w-w-w- ~-      	0.0004
+resize_line_chatwin1000/data126_double8_double.jpg	[11:51] 편편티 (다리우스) 궁     	0.0980
+resize_line_chatwin1000/data126_double9_double.jpg	[11:50] 예편티 (다리우스) 쉔     	0.1741
+resize_line_chatwin1000/data126_double10_double.jpg	[11:34] 오 퉤 (신 짜오 잡자     	0.8910
+resize_line_chatwin1000/data126_double11_double.jpg	[01:55] 인간제는지지 여루해요 미미스 포츈 머깟하고실네	0.0016
+resize_line_chatwin1000/data126_double12_double.jpg	[11:39] 오 퉤 (신 짜오) 람까불어보자	0.2146
+resize_line_chatwin1000/data126_double13_double.jpg	[11:22] 까편터 (다리우스) 생각    	0.1284
+resize_line_chatwin1000/data126_double_double.jpg	[13: 인간쳐는지쿠해요 미스 포츈 이기든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지	0.0156
+resize_line_chatwin1000/data127_double2_double.jpg	[1133 살 퉤 (신 짜오 시료 성픈    	0.0021
+resize_line_chatwin1000/data127_double3_double.jpg	[11:23] 소환사사경터다 오오하아니님이 제어 와드	0.1054
+resize_line_chatwin1000/data127_double4_double.jpg	[17:37] 쉑 퉤 신 짜외님이 가고 있음 	0.0307
+resize_line_chatwin1000/data127_double5_double.jpg	구입입 했습니다다 ,              	0.0539
+resize_line_chatwin1000/data127_double6_double.jpg	[11:33] 뮷 퉤 신 자외님이 가고 있은 죶	0.0008
+resize_line_chatwin1000/data127_double7_double.jpg	이제 감정표현을 무시합니다 인간계는지 해에요 	0.1029
+resize_line_chatwin1000/data127_double8_double.jpg	[11: 인전게는지들 (미스 미순 더룩하고의서	0.0000
+resize_line_chatwin1000/data127_double9_double.jpg	[11:29] 오 퉤 (신 짜오) 함     	0.8821
+resize_line_chatwin1000/data127_double10_double.jpg	0133 인선계는지 하으 지스 프좆 죄라스 ^	0.0000
+resize_line_chatwin1000/data127_double11_double.jpg	[11:33] 오 퉤 (신 짜오님이 가고 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음	0.0000
+resize_line_chatwin1000/data127_double12_double.jpg	[11:28] 오 퉤 (신 짜오): oka  	0.3736
+resize_line_chatwin1000/data127_double13_double.jpg	[11:39] 오둬 (신 짜오): 함까들어보자 	0.1001
+resize_line_chatwin1000/data127_double14_double.jpg	[11:34] 오 퉤 (신 짜외) 잡자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 	0.0000
+resize_line_chatwin1000/data127_double15_double.jpg	[11:31] 오 퉤 (신 짜오) 깝쳐보면인몸이	0.0610
+resize_line_chatwin1000/data127_double_double.jpg	[11:39] 퉤 신신 자외 님이 샤코오의 사뢰 지	0.0099
+resize_line_chatwin1000/data128_double2_double.jpg	( [4언서 서북오의 사넷 닙이 끄디다의스 님의 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연	0.0000
+resize_line_chatwin1000/data128_double3_double.jpg	[06:37] 인간계는지지 (루해오 (미스 포춘 시저라스님	0.0101
+resize_line_chatwin1000/data128_double4_double.jpg	[0444 소환사구 정정하): 없르아니님 의림 신토를 보난 싀	0.0000
+resize_line_chatwin1000/data128_double5_double.jpg	(06: 적발 체려스님 요요려 스스트 \료 간로	0.0000
+resize_line_chatwin1000/data128_double6_double.jpg	[04:49] 인간체는 지루해의 미스 포츈 그면먹어요 씝	0.0004
+resize_line_chatwin1000/data128_double7_double.jpg	[08:36] 껴히 (다리우스): 겁나아프네 씝	0.0210
+resize_line_chatwin1000/data128_double8_double.jpg	[08: 인간게놈지 기뤼에 미스 포츈 우려틱 미니언 쎅	0.0001
+resize_line_chatwin1000/data128_double9_double.jpg	[08:31] 편편티 (다리우스) 와     	0.1776
+resize_line_chatwin1000/data128_double_double.jpg	[07:0 편터 (다리우스 님이 사하젓다고 얼칼	0.0015
+resize_line_chatwin1000/data129_double2_double.jpg	` [05:58] 이려지만시 디블려네어): 누기 누구라 두으요	0.0003
+resize_line_chatwin1000/data129_double3_double.jpg	( [555 적발 (제라스넘이 적이 사라것다고 알림 죶	0.0010
+resize_line_chatwin1000/data129_double4_double.jpg	[10:2 ]래한 놈탈린 끼피끼리 두으하) 죳	0.0001
+resize_line_chatwin1000/data129_double5_double.jpg	[10:42] 양면 색종이 (나르) 바릴두의겠지 쎅	0.0872
+resize_line_chatwin1000/data129_double6_double.jpg	(0에:51] (레년 선비두토 케이틀린) 저라스 신피주면	0.0000
+resize_line_chatwin1000/data129_double7_double.jpg	[03:3 ] 시시 안하로띠 (마오카이) 누구 신고해줄고 	0.0012
+resize_line_chatwin1000/data129_double8_double.jpg	[10:49] 희우린 (베인) 내가 쟤랑와두오하냐	0.3466
+resize_line_chatwin1000/data129_double9_double.jpg	[10:00] 후우린 베인 오픈 이      	0.4122
+resize_line_chatwin1000/data129_double10_double.jpg	[ [10:44] 이러지맙시다 (볼리베어): * 	0.0129
+resize_line_chatwin1000/data129_double11_double.jpg	[10:24] 이러지맙시다 (볼리베어 쩝   	0.6707
+resize_line_chatwin1000/data129_double12_double.jpg	[11:03] 후우린 (베인):        	0.9830
+resize_line_chatwin1000/data129_double13_double.jpg	[10:41] 유쾌한 놈 (탈론 니지     	0.0626
+resize_line_chatwin1000/data129_double14_double.jpg	[10:44] 후우린 (베인):        	0.9557
+resize_line_chatwin1000/data129_double15_double.jpg	[10:11] (전체 컨공의방패 (레오나 제라스 아님 ,	0.0002
+resize_line_chatwin1000/data129_double16_double.jpg	[11:05] 후우린 (베인) 이거 내잘못임이	0.2853
+resize_line_chatwin1000/data129_double_double.jpg	[0444이이 이터지맙시다 볼리버어 넘이 지원 요청을 보엠	0.0015
+resize_line_chatwin1000/data130_double2_double.jpg	[23:07] 71삐 평지 교우 (에코 다리나벌려라 씝	0.0039
+resize_line_chatwin1000/data130_double3_double.jpg	[23:57] 뼈지고우 (에코 오빠손잡고 씝 	0.0746
+resize_line_chatwin1000/data130_double4_double.jpg	, [ss5 적발 소라카님끼끼 쎄지꼬우 에요님게 퇴로 씝	0.0000
+resize_line_chatwin1000/data130_double5_double.jpg	( [s46 적발 소라카님이기 비지고우 (에모님게 (트르 졷	0.0000
+resize_line_chatwin1000/data130_double6_double.jpg	[22:56: 적 씨사카님이끼 (지지우 시에크넘게 할라	0.0000
+resize_line_chatwin1000/data130_double7_double.jpg	^ [09:33] 끼 빼지괴우 (에북 핑o어지 고	0.0000
+resize_line_chatwin1000/data130_double_double.jpg	[23:5 적벌 소라가님이기 (비지지우 시에크님에 탓각	0.0021
+resize_line_chatwin1000/data131_double2_double.jpg	[40:01] 전체 등글동놈구르이 (에료 미셀 씺	0.0005
+resize_line_chatwin1000/data131_double3_double.jpg	[41:09] 듣뇸 젗 시케인 넘을 모저히 먹	0.0029
+resize_line_chatwin1000/data131_double4_double.jpg	[41:03] 서듯의 팔금뒤집개 (오리아나 냄	0.0131
+resize_line_chatwin1000/data131_double5_double.jpg	[41이 ]c제 돋               	0.0455
+resize_line_chatwin1000/data131_double6_double.jpg	[40:44] 전체키 등글듯놈구르미 (에코 빨리 밑	0.0018
+resize_line_chatwin1000/data131_double7_double.jpg	[40:06] saidi to me (카밀): 작수잡아 쎅	0.0313
+resize_line_chatwin1000/data131_double8_double.jpg	[40:10] 전체이 등글 동글구르미 (에코 에고 나가마	0.0253
+resize_line_chatwin1000/data131_double9_double.jpg	[40:10] 박준해 님 (세나 그럼 작수하섹 쎅	0.0038
+resize_line_chatwin1000/data131_double10_double.jpg	[40:57] (진체이 좉 잔시키인 (오떠떠문에 	0.0001
+resize_line_chatwin1000/data131_double11_double.jpg	[39:51] 등글듯놈구르미 (에료 고아잖아 씝	0.0781
+resize_line_chatwin1000/data131_double12_double.jpg	* [40:06] 전체끼 said to-me (카밀): 졎	0.0002
+resize_line_chatwin1000/data131_double13_double.jpg	[40:04] 전체 당글동잡구르미 에에료 안막음	0.0149
+resize_line_chatwin1000/data131_double14_double.jpg	[39:44] said tom (카밀) 짝수지 세나야	0.0584
+resize_line_chatwin1000/data131_double_double.jpg	[40:30] 전체 뒤글동금구르미 에로 나갈 	0.0012
+resize_line_chatwin1000/data132_double2_double.jpg	[17:13] f리놀토 (모데카이제 님이 적 	0.1514
+resize_line_chatwin1000/data132_double3_double.jpg	017: f늘토 모데카이저넘 적이 사리것다고 알릴	0.0010
+resize_line_chatwin1000/data132_double4_double.jpg	[17:13] f어놀토 (모데카이저 님이 적 	0.0421
+resize_line_chatwin1000/data132_double5_double.jpg	[17:05] fo놀토 (모데카이저 님이 우 	0.1212
+resize_line_chatwin1000/data132_double6_double.jpg	[17:00] vrasill (카이사: 부모교육 못받은터	0.2170
+resize_line_chatwin1000/data132_double7_double.jpg	[17:02] uraill (카이사 써렌 이 	0.1556
+resize_line_chatwin1000/data132_double8_double.jpg	[ [07:24] urasil (카이사): 예성에서처나지 꼬말고 쎅	0.0000
+resize_line_chatwin1000/data132_double9_double.jpg	, )) 4 pyw 4             	0.0012
+resize_line_chatwin1000/data132_double10_double.jpg	[17:09] urasill (카이사): 부모부터 ^	0.4237
+resize_line_chatwin1000/data132_double11_double.jpg	u72 아주어먹척걸 (걸러수 타쿄다      	0.0000
+resize_line_chatwin1000/data132_double12_double.jpg	[7711 urasil (카이사) 검하 라  	0.3197
+resize_line_chatwin1000/data132_double13_double.jpg	[17:10] urasill (카이사) 차자교 씝	0.0093
+resize_line_chatwin1000/data132_double14_double.jpg	[17:07] urasill (카이사): 제라스야	0.8111
+resize_line_chatwin1000/data132_double15_double.jpg	[17:09] urasill (카이사) 잃어버린	0.7836
+resize_line_chatwin1000/data132_double_double.jpg	[17:06] fo놀토 (모데카이저 님이 우 	0.5151
+resize_line_chatwin1000/data133_double2_double.jpg	[04: 캐변토 우려카 얘이터거): 침활하라고 쎅	0.0000
+resize_line_chatwin1000/data133_double3_double.jpg	시양용자의 대핵를 이제 문시합니다 (아물라기네)	0.0002
+resize_line_chatwin1000/data133_double4_double.jpg	[06002 이런라분을 나 (알리스턴): 국었는데 씝	0.0002
+resize_line_chatwin1000/data133_double5_double.jpg	[04:6] 이런리븐을 나알리스냐 (밝롯람 쎅	0.0001
+resize_line_chatwin1000/data133_double6_double.jpg	아니이 카련툭 유려카 하이머테게 = 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 	0.0000
+resize_line_chatwin1000/data133_double7_double.jpg	[04:6 이벤리분 봤 (알리스타) 니어 미 	0.0091
+resize_line_chatwin1000/data133_double8_double.jpg	[44i6 이런리븐을 나 (알리스타): 기근데 쎅	0.0023
+resize_line_chatwin1000/data133_double9_double.jpg	(이쉑 키법투 앞런한 (서이6이: 알이이지 보이는	0.0000
+resize_line_chatwin1000/data133_double10_double.jpg	[04:6] 쑤꾸쑤 꾸 (적스님이 가고 있  	0.1989
+resize_line_chatwin1000/data133_double11_double.jpg	웃다4 de 국력하: (가이부가 나까끼) [58: 1구준은	0.0000
+resize_line_chatwin1000/data133_double12_double.jpg	[도4 넘넘토 우레카 (어이데 (써면건 나 전식은에 (	0.0000
+resize_line_chatwin1000/data133_double13_double.jpg	[46] 아탈거이이 (탁니냐나 나비테 시여건저전 쎅	0.0000
+resize_line_chatwin1000/data133_double14_double.jpg	[05:01] 쑤꾸 쑤 꾸팏스 세대로해    	0.0296
+resize_line_chatwin1000/data133_double15_double.jpg	[04221] 쑤 꾸쑤꾸꾸 (적스): 제대로해	0.0839
+resize_line_chatwin1000/data133_double16_double.jpg	[04211] 쑤 꾸 쑤 꾸 (잭스      	0.1379
+resize_line_chatwin1000/data133_double17_double.jpg	[05001] 쑤 꾸 쑤 꾸 (잭스): 아  	0.3076
+resize_line_chatwin1000/data133_double18_double.jpg	[04:4] 아몰라기억 (트리스타나): 뭐함 ,	0.0048
+resize_line_chatwin1000/data133_double19_double.jpg	젗 [40:00] 이련라로을 니알 (알리스야): 서월호타	0.0001
+resize_line_chatwin1000/data133_double_double.jpg	[44:33] 아몰라기의 (트리스타나 알리가 나르었지 너	0.0335
+resize_line_chatwin1000/data134_double2_double.jpg	[05:49] 뚜랍바 누두아 (에코) 막아보자 쎅	0.0314
+resize_line_chatwin1000/data134_double3_double.jpg	[35:53] 뚜랍바두두아 (에코) 막아보자 쎅	0.0872
+resize_line_chatwin1000/data134_double4_double.jpg	[05:52] 두랍바두두아 (에도 아니 억저기 주고 씝	0.0095
+resize_line_chatwin1000/data134_double5_double.jpg	; [05:41] 뚜랍바 뚜두아 에로코 미니언 멀다	0.0030
+resize_line_chatwin1000/data134_double6_double.jpg	` [55:46] 두랍바 두두아 (에코 뇌제기에서 씝	0.0068
+resize_line_chatwin1000/data134_double_double.jpg	[55b22 적 발제저스님이 강각니구 아이명를 구입영습니다	0.0001
+resize_line_chatwin1000/data135_double2_double.jpg	[1111 uai upreme (제드 우디르가 죶	0.0286
+resize_line_chatwin1000/data135_double3_double.jpg	[12:03] usa suoreme (제드 온다니깐 쎅쎅	0.0415
+resize_line_chatwin1000/data135_double4_double.jpg	[1211 ]ua supreme (제드) 아이디 삿냐 니네	0.2891
+resize_line_chatwin1000/data135_double5_double.jpg	[12:35] uranill (카이사: 백만점쳐쳐으면 	0.0161
+resize_line_chatwin1000/data135_double6_double.jpg	[12: urasil (카이사 늣이 키좃   	0.0012
+resize_line_chatwin1000/data135_double7_double.jpg	[12:88 urasili (카이사사 알아야되는거아님	0.1139
+resize_line_chatwin1000/data135_double8_double.jpg	[12:00] usa supreme (제드 도와말라고 죶	0.0673
+resize_line_chatwin1000/data135_double9_double.jpg	[1230 usa nuprem (제드 판단력 없네 ^네	0.0474
+resize_line_chatwin1000/data135_double10_double.jpg	[12:28] usa [50:en] (제드) 하	0.0426
+resize_line_chatwin1000/data135_double11_double.jpg	[12:09] urasill (카이사) 시간버렸네	0.7460
+resize_line_chatwin1000/data135_double12_double.jpg	[11:51] 아주대박보검 (엘리스닙이 가고 있음	0.1384
+resize_line_chatwin1000/data135_double13_double.jpg	[14:11] [s1:46enie (제드 (하면 	0.0686
+resize_line_chatwin1000/data135_double14_double.jpg	[11: urasil (카이사 우디르가오는거랑	0.1920
+resize_line_chatwin1000/data135_double15_double.jpg	[12:18] urasil (카이사 니가   	0.7225
+resize_line_chatwin1000/data135_double16_double.jpg	[12:06] urasill (카이사): e 	0.9486
+resize_line_chatwin1000/data135_double17_double.jpg	' [12:21] urasill (카이사) 미니언쳐먹는거	0.1389
+resize_line_chatwin1000/data135_double18_double.jpg	[02:20] urasiw (카이사 시간어디 다가갖다버림	0.0445
+resize_line_chatwin1000/data135_double19_double.jpg	[11:19] urasill (카이사): 바틸쳐와서 ^	0.0210
+resize_line_chatwin1000/data135_double_double.jpg	[12:26] vrasiw (카이사) 뭐가다른데 쎅	0.0096
+resize_line_chatwin1000/data136_double2_double.jpg	[07:25] 이런리분을 나 (알리스타): 쟤엄다	0.1803
+resize_line_chatwin1000/data136_double3_double.jpg	[07:27] 이런리분을 나 (알리스라 세업율움	0.0802
+resize_line_chatwin1000/data136_double4_double.jpg	[07:24] 이련리븐을 나 리리스타 내가  	0.0396
+resize_line_chatwin1000/data136_double5_double.jpg	[07:28] 이런리분을 나알리스타 죽임 씝 	0.1723
+resize_line_chatwin1000/data136_double_double.jpg	| [03:50] 이런리분나 (알리스타님이 제어	0.2049
+resize_line_chatwin1000/data137_double2_double.jpg	(해이다 (텐들 나라하에 (어당): 이다 띠원표라	0.0000
+resize_line_chatwin1000/data137_double3_double.jpg	[71:3게: (성투 (카하에 (야터이: (해봐하 아니니가 빠러	0.0000
+resize_line_chatwin1000/data137_double4_double.jpg	[08:36] 이런리 분을분나 (알리스타) 사망보험금복	0.0002
+resize_line_chatwin1000/data137_double5_double.jpg	[07:10] 두루리 (나서소) 너명이니해봄 	0.2133
+resize_line_chatwin1000/data137_double_double.jpg	[아니이기 런리분을 나알리스타): 하딩어이 쎅	0.0042
+resize_line_chatwin1000/data138_double2_double.jpg	[03:09] aveng uono xi이즈리얼 (새기분 어중에	0.0005
+resize_line_chatwin1000/data138_double3_double.jpg	[12:56] maeng joon y (이즈리얼) 미니언 	0.1720
+resize_line_chatwin1000/data138_double4_double.jpg	[14: 0니야야): 이아니 (요네): 자려 죶	0.0007
+resize_line_chatwin1000/data138_double5_double.jpg	[12:25] maeng joon yi (이즈리얼 너는	0.4844
+resize_line_chatwin1000/data138_double6_double.jpg	[13:01 maeng jon y (이즈리얼 씨z=	0.0112
+resize_line_chatwin1000/data138_double7_double.jpg	[13:00] maeng jonn yi (이즈리얼 니가절못해 )	0.0226
+resize_line_chatwin1000/data138_double8_double.jpg	[12:00] u니ve monfruv (요네 정신좀 씝	0.0011
+resize_line_chatwin1000/data138_double9_double.jpg	[18:56] maenj joon y (이즈리얼 니가 잘하는게 뭐야	0.0536
+resize_line_chatwin1000/data138_double10_double.jpg	[12:44] maeng joon yi (이즈리얼 진짜	0.8216
+resize_line_chatwin1000/data138_double_double.jpg	[12:52] maeng joon yi (이즈리얼) 어휴 =	0.1658
+resize_line_chatwin1000/data139_double_double.jpg	(08:10] 청모드여 리산타레님이 위흥 신뢰를 보셰 쎅	0.0000
+resize_line_chatwin1000/data140_double2_double.jpg	[03:17] 초모드여 리산드라님이 위창 신회를 브닐 죶	0.0000
+resize_line_chatwin1000/data140_double3_double.jpg	[09:00] 정모드여 미미드 씨이 적이 적라갔다고 살릴	0.0000
+resize_line_chatwin1000/data140_double4_double.jpg	(애니비 청모드여 리산드라님이 젖이 사라짓다고 알	0.0019
+resize_line_chatwin1000/data140_double5_double.jpg	n08미미 창모도여 리산드라닐이 적이 사라갔다고 알칼	0.0029
+resize_line_chatwin1000/data140_double6_double.jpg	[01:42] 유리나르말이 사랑 아르 브다카 순간이동 졷	0.0000
+resize_line_chatwin1000/data140_double7_double.jpg	w계6야5 두의는 밑지다라 이이리업닐끼 적이 사카쳤다고	0.0000
+resize_line_chatwin1000/data140_double_double.jpg	[04:0] 우리나르맞이사 사르 브라음 순것이동 졷	0.0000
+resize_line_chatwin1000/data141_double2_double.jpg	[01:a therflet king 피와와님이 적을 시라스님게 트리	0.0008
+resize_line_chatwin1000/data141_double3_double.jpg	)00:e tre faek ming 띠요라님이 적이 사라라다 얼람 	0.0000
+resize_line_chatwin1000/data141_double4_double.jpg	[00:7] 받장 조이는이 적이 사라갔다고 알람 	0.0002
+resize_line_chatwin1000/data141_double5_double.jpg	valau] 먹수말을게 flam서a 의국 똑탄하이 여부부	0.0000
+resize_line_chatwin1000/data141_double6_double.jpg	쫒휴 휘 휘 죶                 	0.0095
+resize_line_chatwin1000/data141_double7_double.jpg	[1044 몽 환 짱 조이)모         	0.1149
+resize_line_chatwin1000/data141_double8_double.jpg	[01] * 환 짬 즈이 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락	0.0000
+resize_line_chatwin1000/data141_double9_double.jpg	[1pa 몽 봔 짱 (즈이)부 부       	0.0142
+resize_line_chatwin1000/data141_double10_double.jpg	[10:12] 몽 환 짱 (즈이 픔쎅     	0.1035
+resize_line_chatwin1000/data141_double11_double.jpg	[10111 통 롼 짱 조이 제라스      	0.0238
+resize_line_chatwin1000/data141_double12_double.jpg	[19: 통 탄 짱 조이 이쓴부임       	0.0017
+resize_line_chatwin1000/data141_double_double.jpg	[22:45 되심 되털을지 카카이사님 지원 요철을 보는 	0.0000
+resize_line_chatwin1000/data143_double_double.jpg	[03:01] 지어의이 세세시구 구계기가 소그다 쳐먹려	0.0000
+resize_line_chatwin1000/data144_double2_double.jpg	[07:01] 전체이 미드노에 싀례쉬 (키밀 z니못하네 	0.0012
+resize_line_chatwin1000/data144_double3_double.jpg	[07:0]] (전체 리쌍 감성 (베인) 다 이방이다 	0.0491
+resize_line_chatwin1000/data144_double4_double.jpg	[06:57] 인터섹식 (키밀 님이 적이 사라것다고 알릴 	0.0607
+resize_line_chatwin1000/data144_double5_double.jpg	[07:48] 전체 인야석션 (카밀): 이간질 시키스)	0.0121
+resize_line_chatwin1000/data144_double6_double.jpg	[07:31] 전체고 미드노애 (쓰레쉬 : 보봐도악	0.0052
+resize_line_chatwin1000/data144_double7_double.jpg	[0o: tvaco (니코 제라스 올리팟 = 	0.0175
+resize_line_chatwin1000/data144_double8_double.jpg	[07o5 이진게 쌍n: 갈a어 근예 너라서 (것다 `겼다 `겼다 `겼다 `겼다 `겼다 `겼다	0.0000
+resize_line_chatwin1000/data144_double9_double.jpg	[07:8] (전체 인터섹선 (카밀) 쓰레쉬 	0.1192
+resize_line_chatwin1000/data144_double10_double.jpg	[07: [37 똥구녀서은 (카럼)지 지트자 던섹다 던쎅	0.0000
+resize_line_chatwin1000/data144_double11_double.jpg	[07:40] 세전 iardo 니코 저라스 리좃좀 졷	0.0000
+resize_line_chatwin1000/data144_double12_double.jpg	[07:32] (전체 인터섹선 (카일): 0]	0.0860
+resize_line_chatwin1000/data144_double13_double.jpg	젗08이 전체 tako 니코분 (케 카카카키키 클상	0.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/data144_double14_double.jpg	[07:14] 전체 인데섹선 (카밀) >   	0.0056
+resize_line_chatwin1000/data144_double15_double.jpg	[07:57] (전체 인터섹션 (카밀):   	0.6852
+resize_line_chatwin1000/data144_double16_double.jpg	[07:20] (체 미드노에 쓰레쉬이 니가 제라스 욕코것지	0.0241
+resize_line_chatwin1000/data144_double17_double.jpg	[07:56] (전체 인터섹션 (카밀): 찌 	0.1465
+resize_line_chatwin1000/data144_double18_double.jpg	[07:0u] 전체 tanda 니코 쓰레쉬 그렇게 이기고살냐	0.0001
+resize_line_chatwin1000/data144_double19_double.jpg	[07:33] 건전체 인터섹션 (카밀): 4계	0.0378
+resize_line_chatwin1000/data144_double20_double.jpg	[04: 전체 안터석선 (카밀 버러지가 눗  	0.0211
+resize_line_chatwin1000/data144_double_double.jpg	씨 니씨끼 더니                 	0.0001
+resize_line_chatwin1000/data145_double2_double.jpg	[0043적 발 제라스 님이 사라갔다고 알림 	0.0143
+resize_line_chatwin1000/data145_double3_double.jpg	[01:01] 인터섹션 (카밀) 노노     	0.5086
+resize_line_chatwin1000/data145_double4_double.jpg	[11:00] 인터섹션 (카밀) 티모     	0.4781
+resize_line_chatwin1000/data145_double5_double.jpg	[01:8] tamo (니코 핑쳐찍어     	0.2041
+resize_line_chatwin1000/data145_double6_double.jpg	(0005 적당히 하하세 (이즈리얼 ;    	0.0388
+resize_line_chatwin1000/data145_double7_double.jpg	[0106] taxoa 니쿄 왜        	0.3418
+resize_line_chatwin1000/data145_double8_double.jpg	[00:54] 인터섹선 (카밀) 헤카립님   	0.5858
+resize_line_chatwin1000/data145_double9_double.jpg	[ [07: 인터석년 (카밀) 합베인 카운터 린지 아심이	0.0063
+resize_line_chatwin1000/data145_double10_double.jpg	[01:09] 인터석년 (카골) 초반에만 졷 많이 의주설	0.0017
+resize_line_chatwin1000/data145_double_double.jpg	[01:08] 인터섹션 (카밀): 바로 갱임 	0.2079
+resize_line_chatwin1000/data146_double2_double.jpg	[20:30] 쇼체고이 e44fu (잭스 모든활이여는	0.0001
+resize_line_chatwin1000/data146_double3_double.jpg	[49:0신 츈 (카타리나 그들스터 생죤 쎅 	0.0014
+resize_line_chatwin1000/data146_double4_double.jpg	[20:1신 춘 (카타리냐) 피들스틱 내생존 죳	0.0051
+resize_line_chatwin1000/data146_double5_double.jpg	[20:56] 전제 신 춘 (카타리나 안막을게	0.1147
+resize_line_chatwin1000/data146_double6_double.jpg	[20:07] (카시 [트이다 는사 (타트록스) 정들	0.0002
+resize_line_chatwin1000/data146_double7_double.jpg	[20:49] 전치이산 (카하리냐 그냥 정글이	0.0075
+resize_line_chatwin1000/data146_double8_double.jpg	[20:1신 춘 (카타리나) 피들스틱 언생존 죶	0.0209
+resize_line_chatwin1000/data146_double9_double.jpg	[15:5 ]체에 춘 (카티리나) 서랜 되안봤8	0.0003
+resize_line_chatwin1000/data146_double10_double.jpg	( [04: [] 사현드든 당나이 역겁네 르 	0.0001
+resize_line_chatwin1000/data146_double11_double.jpg	[20: 신 춘 (카티나):피피피 언생존 졷 	0.0002
+resize_line_chatwin1000/data146_double12_double.jpg	[29:17] [1끼 이wef eavfiv (섹식 나만나면 쎅	0.0000
+resize_line_chatwin1000/data146_double13_double.jpg	[00:00] 젓3이 춘 (카타리나) 서런란줄알았는대	0.0002
+resize_line_chatwin1000/data146_double14_double.jpg	[40:00] 미처 쳐복이다 씨싸랄 (트록트스	0.0000
+resize_line_chatwin1000/data146_double15_double.jpg	[09: (조제 신 춘 (카타리나): 밀어주설 씺	0.0001
+resize_line_chatwin1000/data146_double16_double.jpg	선판 해같 니데                 	0.0836
+resize_line_chatwin1000/data146_double17_double.jpg	[ 004] [3처 mite [사끼 (    	0.0000
+resize_line_chatwin1000/data146_double_double.jpg	[20:6신 춘 (카타리나) 피들스틱 생존 죳	0.0391
+resize_line_chatwin1000/data147_double2_double.jpg	[07:36] 적 제 정라스님이 적이 사라겠다고 알릴	0.0317
+resize_line_chatwin1000/data147_double3_double.jpg	[07:00] 제꼬삼 (판테온): 뭐하냐   	0.1144
+resize_line_chatwin1000/data147_double4_double.jpg	[07:88] 제꼬삼 (판테온): ,     	0.2722
+resize_line_chatwin1000/data147_double5_double.jpg	[07:29] 제꼬삼 (판테온 인더      	0.1879
+resize_line_chatwin1000/data147_double6_double.jpg	( [01:0이 니들트 (소려얼쇠 차타스할매 위안부 쇅	0.0000
+resize_line_chatwin1000/data147_double7_double.jpg	[07:27] 제꼬살 (판테온): 이아니   	0.1818
+resize_line_chatwin1000/data147_double8_double.jpg	(07:55] 미틀 괴물쥐 (이즈리얼): 처벌레일 	0.1137
+resize_line_chatwin1000/data147_double_double.jpg	( [02:4 적 발 개제라스님이 적이 사라겠다고 알릴	0.0870
+resize_line_chatwin1000/data148_double2_double.jpg	[06:23] [전체 인텨석선 (카밀) 너 접어	0.0419
+resize_line_chatwin1000/data148_double3_double.jpg	(06116] (전체 인터섹선 (카밀): 끈데 씝	0.0039
+resize_line_chatwin1000/data148_double4_double.jpg	[06:16] (전체 인터섹션 (카밀): 베인아 너	0.8151
+resize_line_chatwin1000/data148_double5_double.jpg	[06:17] 전체 인터섹션 (카밀) 늦   	0.0674
+resize_line_chatwin1000/data148_double6_double.jpg	[06:14] 전체 인터섹션 (카밀): 개못한다	0.5547
+resize_line_chatwin1000/data148_double7_double.jpg	[04:27] 전체 인터섹신 (카밀 난카밀 첨일 쫃	0.1280
+resize_line_chatwin1000/data148_double8_double.jpg	[04:11] 전제 인터섹스 카밀 진짜나말고 ~ 사람이면	0.0038
+resize_line_chatwin1000/data148_double9_double.jpg	너 터짐 야 보                 	0.0429
+resize_line_chatwin1000/data148_double10_double.jpg	[0:44] c3 인미석스 (카밀 나가가 김 여이하는데 쓉 (어이하는	0.0000
+resize_line_chatwin1000/data148_double11_double.jpg	[05:51] 인터섹선 (카밀) 개망함 `  	0.0850
+resize_line_chatwin1000/data148_double12_double.jpg	[08:32] (전체 리쌍 감성 (베인)   	0.3343
+resize_line_chatwin1000/data148_double13_double.jpg	n                        	0.5205
+resize_line_chatwin1000/data148_double14_double.jpg	[04:56] (전체 인터석션 (카밀): 한단쯤 져주난 졷	0.0024
+resize_line_chatwin1000/data148_double15_double.jpg	[04:49] 인터섹선 (카밀) 졌다 ,   	0.0941
+resize_line_chatwin1000/data148_double16_double.jpg	[06113 (전체 인터섹선 (카밀도 와   	0.0564
+resize_line_chatwin1000/data148_double17_double.jpg	[06:51] 인터섹션 (카밀) 좀 와주셈  	0.2138
+resize_line_chatwin1000/data148_double18_double.jpg	[04:58] taxoo (니코 저라스 올리픗	0.1178
+resize_line_chatwin1000/data148_double_double.jpg	[05:1] 인터섹선 (카일는 적이 적하갔다고 알림	0.0072
+resize_line_chatwin1000/data149_double2_double.jpg	[10:00] 소세 서기덜 이지론 (신드냐 그래 알	0.0193
+resize_line_chatwin1000/data149_double3_double.jpg	[03:06] 쓉세 세기밀 이지빱 (식다 (티야 씝	0.0000
+resize_line_chatwin1000/data149_double4_double.jpg	[07:3] 션세 야 스요라카 (아비 벗었었다 씝	0.0000
+resize_line_chatwin1000/data149_double5_double.jpg	[07:04] 쓉세세 셰기딸 이지빱 신드라 그립다 죶	0.0000
+resize_line_chatwin1000/data149_double6_double.jpg	[04:00] 세기발 세기발 이지빱 (신터  	0.0066
+resize_line_chatwin1000/data149_double7_double.jpg	[10:00] 얘세 아 스요려카 (아) 떠드쉽안다 쎅	0.0001
+resize_line_chatwin1000/data149_double8_double.jpg	[m5: (년세이 스오빠카 (아) 마이옥설 카픔플쎅 쎅	0.0000
+resize_line_chatwin1000/data149_double9_double.jpg	[0t:07] 쉽1 세기말 이지딘 신드라 너도 크려	0.0002
+resize_line_chatwin1000/data149_double10_double.jpg	[03:00] i세세 세기말 이지는 신드라 승폐를 넘	0.0008
+resize_line_chatwin1000/data149_double11_double.jpg	[09:01] 년식연니나스야 (니냐이이 음살스스):	0.0000
+resize_line_chatwin1000/data149_double12_double.jpg	[04:00] 세세 세기말 이지본 신드냐 인정말	0.0065
+resize_line_chatwin1000/data149_double13_double.jpg	[00:00] (어 나는스나): (마쓰이이 병크덕요 연변에	0.0000
+resize_line_chatwin1000/data149_double14_double.jpg	(애야 신시세 세기덜 이지년 신드이) 좃은슴부년다 `	0.0000
+resize_line_chatwin1000/data149_double15_double.jpg	[10:42] 전세이 야오 카아라카 (아리): 다리하다 쎅	0.0001
+resize_line_chatwin1000/data149_double16_double.jpg	[06:57] 야 스오라카 (아런) 에미 언제 죽오엇음이	0.0075
+resize_line_chatwin1000/data149_double17_double.jpg	[08:47] 아 스오라카 (아리) 마이님  	0.0998
+resize_line_chatwin1000/data149_double18_double.jpg	[07:12] (는 씨는년니): 이이녀보이 욕발 백반법에의	0.0000
+resize_line_chatwin1000/data149_double_double.jpg	[06:52] 천세 야 싀오나카 (아리): 복말이폰아	0.0007
+resize_line_chatwin1000/data150_double2_double.jpg	[14: 적 발 (제라스 님 궤스트 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료	0.1694
+resize_line_chatwin1000/data150_double3_double.jpg	( [55: 엄서엑서 (종랑크 넘이 사유씨알리스해 저독 	0.0000
+resize_line_chatwin1000/data150_double4_double.jpg	[15:31] 엄서업서 (갱플랭크님이 가고 있음 	0.1049
+resize_line_chatwin1000/data150_double5_double.jpg	구입 했습 다                  	0.3442
+resize_line_chatwin1000/data150_double6_double.jpg	[17: 재밌게 임합시다 (루시안 작     	0.1080
+resize_line_chatwin1000/data150_double7_double.jpg	(17:21] 개있계입합시디 (루시안 제라스 정신범았):	0.0030
+resize_line_chatwin1000/data150_double8_double.jpg	( [11:77] 싑업시 (게줄보넘 적이 사라코다고 얼림	0.0000
+resize_line_chatwin1000/data150_double9_double.jpg	[17:22] 개민계입을시 (루시안) 이거 계속해야트냐 죳	0.0001
+resize_line_chatwin1000/data150_double_double.jpg	[16:30 업서업서 (갱플랭크님이 가고 있음 졷	0.0174
+resize_line_chatwin1000/data151_double2_double.jpg	[09: 0]체 합라이너 오주이 (칼리스하) 이기셈	0.0030
+resize_line_chatwin1000/data151_double3_double.jpg	[04:40] 전체i badodod (리신 나 도안넘 ` <안넘 	0.0003
+resize_line_chatwin1000/data151_double4_double.jpg	[24:50] 정체이 합려이너 오주아 (칼리스하) 저안럴	0.0140
+resize_line_chatwin1000/data151_double5_double.jpg	^ [2555] (전체 (라이너 오주아 (칼리스타): [	0.0040
+resize_line_chatwin1000/data151_double6_double.jpg	[24:0 ]져이 badodod (리 신스 데스 할거니까 쎅	0.0014
+resize_line_chatwin1000/data151_double7_double.jpg	[04:00] 전체 peadodow (리 제락스 핑한번 찍을 마다	0.0001
+resize_line_chatwin1000/data151_double8_double.jpg	[0444 부부부들들로): 브런들 다신아 이지지 졷회고)	0.0000
+resize_line_chatwin1000/data151_double9_double.jpg	^ [28:57] 전전체 badodod (리 신): 이기셀 씝	0.0038
+resize_line_chatwin1000/data151_double_double.jpg	[33:44] 간고순 (하이머딩기 넘이 (신끌 어드립니다 털	0.0021
+resize_line_chatwin1000/data152_double2_double.jpg	[01:40전 전제합하이 오주아 (럽나스) 이겨주꼴솔 쎅	0.0000
+resize_line_chatwin1000/data152_double3_double.jpg	4s44 (전제 보커살다 알알려스): 리신 대묵복을 (	0.0000
+resize_line_chatwin1000/data152_double4_double.jpg	젗그고 치 ?                  	0.0634
+resize_line_chatwin1000/data152_double5_double.jpg	^0441 젓제병년나 오주노랄스스): 자저 연기 개에너하다	0.0000
+resize_line_chatwin1000/data152_double6_double.jpg	[44:0]] 전집게 탈라야네 오주아 (칼려스탄): 그냥	0.0000
+resize_line_chatwin1000/data152_double7_double.jpg	[44:00] 전체이 합하이네 오주아 오칼리스하 게일 졷	0.0014
+resize_line_chatwin1000/data152_double8_double.jpg	(0441 전체협것이 오다아랄스): 씨 차치면현 죳	0.0000
+resize_line_chatwin1000/data152_double9_double.jpg	[a44u] 정지 핵한이네 오주시 섹럽려스면 악l같척버수 들	0.0000
+resize_line_chatwin1000/data152_double10_double.jpg	[04:00] 전기들 할라이너 오주사 칼레스스): 나도안하니까	0.0000
+resize_line_chatwin1000/data152_double11_double.jpg	[47:0 전씨보 피같의 (씝섹스) 아니니 뿐자 이끼	0.0000
+resize_line_chatwin1000/data152_double12_double.jpg	[24:25] 전전체 badodod (리 신) $	0.0347
+resize_line_chatwin1000/data152_double_double.jpg	[04:40] 전체 gradodo (럿 신나 하화하든 듣	0.0000
+resize_line_chatwin1000/data153_double2_double.jpg	[37:03] 키피고만 차격어 부추): 계입에서 존심부리	0.0001
+resize_line_chatwin1000/data153_double3_double.jpg	[37:56] writi 미식포쌈 정글 시끗 싸독지체	0.0000
+resize_line_chatwin1000/data153_double4_double.jpg	뇌절하면서 씝                  	0.4380
+resize_line_chatwin1000/data153_double5_double.jpg	(애6633 키피고만 쳐격에:): 끝씹토없는 들들 (	0.0000
+resize_line_chatwin1000/data153_double6_double.jpg	[34:40] 진치 (되고만 져리에: 자이라라 취풀하주서요	0.0000
+resize_line_chatwin1000/data153_double7_double.jpg	[37:18] wrwirilii (미스 포츈) 드서련해	0.0053
+resize_line_chatwin1000/data153_double8_double.jpg	[08:52] 커피 그만켜먹어 (루시안 어휴 	0.0589
+resize_line_chatwin1000/data153_double9_double.jpg	[37:59] wrwilliw (미식 포츈 (철할까며) 니	0.0004
+resize_line_chatwin1000/data153_double10_double.jpg	[36:1 카피파만 카죽에 (루시안) 자이라뉴탄 문요 졷	0.0000
+resize_line_chatwin1000/data153_double_double.jpg	[34:46] (전체 (커피민치먹어 (루시안): alln 	0.0290
+resize_line_chatwin1000/data155_double2_double.jpg	[17:88] 커피고만차먹어 (루시안): 지면기분족은):	0.0355
+resize_line_chatwin1000/data155_double3_double.jpg	니꾸은 환순 적좀 r놈 (낙루 <속라 ^   	0.0000
+resize_line_chatwin1000/data155_double4_double.jpg	[17:04] wiwliwli (미스 포츈 서련 치먼가 쎅	0.0098
+resize_line_chatwin1000/data155_double5_double.jpg	[17:10] 키피그만쳐먹어 (루시안): 디들개끼	0.2151
+resize_line_chatwin1000/data155_double6_double.jpg	[17:23] 꽃길만갑자김세정 (나르 그냥  	0.1618
+resize_line_chatwin1000/data155_double7_double.jpg	씝 [17: 8관을 첫관처럼 (녹턴) 미포 없어	0.0420
+resize_line_chatwin1000/data155_double8_double.jpg	,17:0]] 꼴길면자급세 정정 나르 쉽청서 때피블는)	0.0000
+resize_line_chatwin1000/data155_double9_double.jpg	[16:57] 키고그한한할하 (쑤안): 스년 님도 그원장장요요	0.0000
+resize_line_chatwin1000/data155_double10_double.jpg	[12:2 iwwili (미스 퐈츈 녹된 자지려가지 정글먹는데	0.0002
+resize_line_chatwin1000/data155_double11_double.jpg	[16:00] 대운 헛판차럼 녹e 자자하카저저저 하동을 하는이	0.0003
+resize_line_chatwin1000/data155_double12_double.jpg	[17:13] 카피그만처먹어 (루시안) 그냥하면들걸	0.1187
+resize_line_chatwin1000/data155_double13_double.jpg	[17:11] 커피그만쳐먹어 (루시안 진짜  	0.0344
+resize_line_chatwin1000/data155_double14_double.jpg	(17:44] 애판을 헛만처럼 (녹턴 그양 나가도록 하자 	0.0086
+resize_line_chatwin1000/data155_double15_double.jpg	[17:24] 꽃길만검자김세 (나르) 해   	0.2517
+resize_line_chatwin1000/data155_double16_double.jpg	[17:21] 꽃길 검자김세정 (나르): 아 	0.0962
+resize_line_chatwin1000/data155_double17_double.jpg	[17:16] 꽃길만검자김세정 (나르): 아 	0.0303
+resize_line_chatwin1000/data155_double_double.jpg	[17:11] 꽃길만검자김세정 (나르): 힘내렴내	0.0103
+resize_line_chatwin1000/data156_double2_double.jpg	, [21:37] [03: uiterator syvas (피오라 터	0.0001
+resize_line_chatwin1000/data156_double3_double.jpg	( [00:3]] [31 오네 못가대도 (트위스티드	0.0002
+resize_line_chatwin1000/data156_double4_double.jpg	[20:38] 쇼치 loverator syvas (피오라) 루야	0.0085
+resize_line_chatwin1000/data156_double5_double.jpg	[00:11] 아군이 찬성 4포 반대 힘포로 	0.0210
+resize_line_chatwin1000/data156_double6_double.jpg	[20:18] 존 나마너우저제이 게임을 종로해습니다	0.0065
+resize_line_chatwin1000/data156_double7_double.jpg	[2019 ablewanse (샤코): 씨 눈팏 졷	0.0002
+resize_line_chatwin1000/data156_double8_double.jpg	[20:17] u체 lurerator syas (피오래서 *	0.0031
+resize_line_chatwin1000/data156_double9_double.jpg	[20:3 avewanser (샤쿄 너무못한다 씝	0.0339
+resize_line_chatwin1000/data156_double10_double.jpg	[20:38] [3제 livereator syas 피요리 싀	0.0001
+resize_line_chatwin1000/data156_double11_double.jpg	4-pha 니씨): 싸 h-h-9       	0.0000
+resize_line_chatwin1000/data156_double12_double.jpg	[20:15] avewanser 씨쿄 진짜 씝	0.0301
+resize_line_chatwin1000/data156_double13_double.jpg	( [21: 0] farnet mef 이즈리얼 시	0.0521
+resize_line_chatwin1000/data156_double14_double.jpg	[20:10] 젓체 요세 툭가대회 (탁의스티드 페이트):	0.0002
+resize_line_chatwin1000/data156_double15_double.jpg	[40:7] 존 나마너유저 (녹턴 (부모 쎅 	0.0086
+resize_line_chatwin1000/data156_double16_double.jpg	[20:14] 차두라리스크 (진 응 금느   	0.7260
+resize_line_chatwin1000/data156_double17_double.jpg	[20:14] aviewarser (샤쿄 녹턴 	0.6704
+resize_line_chatwin1000/data156_double18_double.jpg	[20:13] avewarver (샤쿄 키  	0.2388
+resize_line_chatwin1000/data156_double19_double.jpg	, [04:10] 전체 [1v:4e] 카직스 +	0.0001
+resize_line_chatwin1000/data156_double20_double.jpg	( [20:16] avoewanser (샤코) 너무하다	0.0470
+resize_line_chatwin1000/data156_double21_double.jpg	[09:00] (쳐체 la버e): was (피으라 싀	0.0003
+resize_line_chatwin1000/data156_double22_double.jpg	[20:12] 존 나매너우저 녹턴 한     	0.0329
+resize_line_chatwin1000/data156_double_double.jpg	[20:38] [3 :5ereato les (피에게 쿠	0.0002
+resize_line_chatwin1000/data157_double2_double.jpg	구입 했습니다                  	0.9783
+resize_line_chatwin1000/data157_double3_double.jpg	[18:38] wwwilli (미스 포츈 궁 쇅리	0.0019
+resize_line_chatwin1000/data157_double4_double.jpg	[16:41] ilwililili (미스 포츈 일부러	0.0197
+resize_line_chatwin1000/data157_double5_double.jpg	[14:56] wiliwilli (미스 포츈 시야 봤혀 좃는데	0.0014
+resize_line_chatwin1000/data157_double6_double.jpg	[16:48] wiwiwili (미스 포츈 안쓰네	0.4186
+resize_line_chatwin1000/data157_double_double.jpg	04이어 겨피고만민의 문귀인 넘이 정치하는 시인이이서 지	0.0000
+resize_line_chatwin1000/data158_double2_double.jpg	[42:20] 선 요 입일레스): 맘관부터 연전연송허	0.0310
+resize_line_chatwin1000/data158_double3_double.jpg	[ [21:16] 선 요 (일레스스) 하이교 쎅	0.0057
+resize_line_chatwin1000/data158_double4_double.jpg	[21:47] 아조와 (다리우스 (키가 뒤에잇냐	0.1490
+resize_line_chatwin1000/data158_double5_double.jpg	[22:00 아즈의 다리우스 정글시좃 진짜 려게표네	0.0035
+resize_line_chatwin1000/data158_double6_double.jpg	[21:32] 선 요 (사일러스): 너무텀들다 정	0.1563
+resize_line_chatwin1000/data158_double7_double.jpg	[44:11까 까직와 다짓우스 제라스 하픗 끼	0.0008
+resize_line_chatwin1000/data158_double8_double.jpg	[44: 1체 찰가란 말가 이인        	0.0001
+resize_line_chatwin1000/data158_double9_double.jpg	[22:44 아즈와 (다리우스 제라스는 리좃 졷 ;	0.0057
+resize_line_chatwin1000/data158_double10_double.jpg	[42:0이 아죄와 다리우식): 아 초만 더 살았부으면	0.0021
+resize_line_chatwin1000/data158_double11_double.jpg	(2441 전체선산 외 사일러스):      	0.0167
+resize_line_chatwin1000/data158_double12_double.jpg	[21:15 선 외 사일려스 바로반당     	0.0244
+resize_line_chatwin1000/data158_double_double.jpg	[표고 인죄 시질요 노사e지살         	0.0000
+resize_line_chatwin1000/data159_double2_double.jpg	씝사중지의 대녀를 이제 투시합니다 이이시를입니): 죳	0.0001
+resize_line_chatwin1000/data159_double3_double.jpg	[29:37] 기도번니야지 미소 포찮님이 적이 사라하고 알림	0.0017
+resize_line_chatwin1000/data159_double4_double.jpg	씨 인은 전신 년는닌 신다면는 죳       	0.0000
+resize_line_chatwin1000/data159_double5_double.jpg	' ppra] 이거시 룰입니까 근테은 아뭐양 	0.0099
+resize_line_chatwin1000/data159_double6_double.jpg	[0f:7기기 도 한한니여기 미스스 도럼님이 적이 사라하다고 일럼다다 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일	0.0000
+resize_line_chatwin1000/data159_double7_double.jpg	[096 이거 시를입니자 문테은 와 키일 그례벌이냐	0.0001
+resize_line_chatwin1000/data159_double8_double.jpg	[035이이이 (시씨니끼 단테은 윤윅시 제라스우 뒤잠	0.0000
+resize_line_chatwin1000/data159_double9_double.jpg	이제 신희클 무시합니다 (이시치입니까):   	0.0152
+resize_line_chatwin1000/data159_double_double.jpg	[29:7] 이거출입니까 논테은 선물인    	0.0158
+resize_line_chatwin1000/data160_double2_double.jpg	[15:01] [10:11:14] 씨드 첩지 못했	0.0001
+resize_line_chatwin1000/data160_double3_double.jpg	[12:0 ] 계체이 [01:14] [제드 배꺼	0.0001
+resize_line_chatwin1000/data160_double4_double.jpg	[11:00] [시이야 (체녀): 죶와중에 뭣뺏은	0.0000
+resize_line_chatwin1000/data160_double5_double.jpg	[13:00] 미전체끼 moonright shedow w재드 햐이 쎅	0.0001
+resize_line_chatwin1000/data160_double6_double.jpg	[12:43] 정받으면거리 (이렐리아 님이 hide	0.1454
+resize_line_chatwin1000/data160_double7_double.jpg	` [02:07] 강중l 강환으금리 (이럽리아 통은것점 본	0.0000
+resize_line_chatwin1000/data160_double8_double.jpg	[13:39] f어버: (케인 님이 가고 있음 ^	0.0007
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/data160_double9_double.jpg	[19:4 ] 체체 한이이이 (앙일러스니 졷 	0.0000
+resize_line_chatwin1000/data160_double10_double.jpg	011:06] (44 [키인 님이 전렇위 남을 박죄것습니다	0.0000
+resize_line_chatwin1000/data160_double11_double.jpg	[12:0 ]치키 t01:16: 여] 시제드 달아 	0.0004
+resize_line_chatwin1000/data160_double_double.jpg	[12:5 l1체 정받으면커 리리럽 (이렐리아) 아이언	0.0001
+resize_line_chatwin1000/data161_double2_double.jpg	(계이 취발지 쒸익악만 스년 없로이스     	0.0000
+resize_line_chatwin1000/data161_double3_double.jpg	054 야디보 계입 ]             	0.0032
+resize_line_chatwin1000/data161_double_double.jpg	[55: 밭 발 시란니님이 적 와드를 탁   	0.0005
+resize_line_chatwin1000/data162_double2_double.jpg	(33:01] !지고우 (에코) men럼련  	0.0222
+resize_line_chatwin1000/data162_double3_double.jpg	[00:21] !지고우 (에코 소라카가 쎅  	0.0349
+resize_line_chatwin1000/data162_double4_double.jpg	[31:6 omfiehw 이케이틀린)나 널주던데	0.0132
+resize_line_chatwin1000/data162_double5_double.jpg	[31:17] 뼈지교우 에로)난 안품     	0.0087
+resize_line_chatwin1000/data162_double6_double.jpg	[ [35:41] 삐지고우 에고 털만 줘도이김	0.0051
+resize_line_chatwin1000/data162_double7_double.jpg	13059] 뼈지고우 에코 눈         	0.0874
+resize_line_chatwin1000/data162_double8_double.jpg	[33:3] 한남 이규로 (나서스 먼 카이팅임	0.2532
+resize_line_chatwin1000/data162_double_double.jpg	구입 습니다                   	0.9289
+resize_line_chatwin1000/data163_double2_double.jpg	구입 했습니다                  	0.2428
+resize_line_chatwin1000/data163_double3_double.jpg	[04:01] (시1 (철대 저제키야 (시요페아): 농승고맙다	0.0000
+resize_line_chatwin1000/data163_double4_double.jpg	사용자의 대봐를 이제 무시합니니 욕절대안슬거야	0.0105
+resize_line_chatwin1000/data163_double5_double.jpg	[13:20] (3이 무럴지안슬 저슬지): 신자 소자 소라카는	0.0000
+resize_line_chatwin1000/data163_double6_double.jpg	goer 이 기 로               	0.0065
+resize_line_chatwin1000/data163_double7_double.jpg	[10: 카카오뱅크점 요르 경 오픈하자    	0.0137
+resize_line_chatwin1000/data163_double_double.jpg	이제 감정표현들 무시합니다 욕럴매안들거이 쓉 	0.0127
+resize_line_chatwin1000/data164_double2_double.jpg	[22:11] 시기철신구고): (이사납이 woxxa 이초럽엘님님	0.0000
+resize_line_chatwin1000/data164_double3_double.jpg	[09:1 ]끼까 니딸이 세체서 전폐의 포을 파피	0.0001
+resize_line_chatwin1000/data164_double4_double.jpg	( [20:56] 전전체 geviaruum (보틸러스): 사끗차이 씝	0.0001
+resize_line_chatwin1000/data164_double5_double.jpg	[25:5] 파미 피피으라게 경지르 리롯이나 하고끝어자	0.0002
+resize_line_chatwin1000/data164_double6_double.jpg	[20:32 작 다 (피오라시아 스트레스 받아 쎅	0.0268
+resize_line_chatwin1000/data164_double7_double.jpg	[21:11 다 피피라 아구지 졷       	0.2297
+resize_line_chatwin1000/data164_double8_double.jpg	[16:56] 곤 성 (요네): 미니언좀주실 어대여 쎅	0.0007
+resize_line_chatwin1000/data164_double9_double.jpg	[19:16] koixa 이즈리얼 연패보고 맛지럴걸	0.0853
+resize_line_chatwin1000/data164_double10_double.jpg	[21:00] wxia 이즈리얼 차하드리고  	0.0201
+resize_line_chatwin1000/data164_double11_double.jpg	[21:07] 다 다 피오라 년        	0.2585
+resize_line_chatwin1000/data164_double12_double.jpg	[16: ykia 이즈려얼 연패하는아는 이수가있는거입	0.0182
+resize_line_chatwin1000/data164_double13_double.jpg	[21:02] 다피오라 닫아봐 치 니     	0.0243
+resize_line_chatwin1000/data164_double_double.jpg	[20:58] kowa 이조리얼 시라스 연대이어나가는	0.0018
+resize_line_chatwin1000/data165_double2_double.jpg	[0960 철까지를 잡뇬는다 이직리얼날뇬이 가고 있키	0.0000
+resize_line_chatwin1000/data165_double3_double.jpg	[10:11 철가지롤안집는다 (이즈리얼) 제라스 생죤	0.0038
+resize_line_chatwin1000/data165_double4_double.jpg	000:1 떨까지를안집는다 (이즈려얼 제라스 생픈	0.0017
+resize_line_chatwin1000/data165_double5_double.jpg	[00:31 설까지롤안잡는다 (이즈레알 시리스 생죤	0.0002
+resize_line_chatwin1000/data165_double6_double.jpg	[10:21] 설자지 물안접는다 (이즈리얼 v- [55 쎅	0.0001
+resize_line_chatwin1000/data165_double7_double.jpg	`계 감정표현을 무시합니다 (굴먹은 죶    	0.0067
+resize_line_chatwin1000/data165_double8_double.jpg	( [00:00] 설자지를안접는다 이이즈리얼) 저라스 생죤	0.0003
+resize_line_chatwin1000/data165_double9_double.jpg	` 이제 신희를 무시합니다 (빨까지들 집 는집는다 쎅	0.0000
+resize_line_chatwin1000/data165_double10_double.jpg	이제 신회를 무시합니다 꿀먹음)        	0.3009
+resize_line_chatwin1000/data165_double11_double.jpg	쇅 예제 감정포현을 무시합니다 (벨까지들 (안적는다	0.0003
+resize_line_chatwin1000/data165_double_double.jpg	[00:19 철자지를안 집는다 (이즈려얼 솔제라스 8 쏜픈	0.0000
+resize_line_chatwin1000/data166_double2_double.jpg	[13:55] 긴가민가하면서 (트위치     	0.8970
+resize_line_chatwin1000/data166_double3_double.jpg	[13: (전체 동두천 원딜대도 (이즈리얼 니네	0.0455
+resize_line_chatwin1000/data166_double4_double.jpg	[14:12] 동두천 원딜대표 (이즈리얼): 해드럴	0.0810
+resize_line_chatwin1000/data166_double5_double.jpg	[04:10] 전체 동두헌 원답대도 (이즈리얼 킬초일	0.0088
+resize_line_chatwin1000/data166_double6_double.jpg	[14:11] 동두천 뭔딜대포 (이즈리얼 한번하면	0.0162
+resize_line_chatwin1000/data166_double7_double.jpg	[16:57] 전제체 동두췬 원딜대도 (이즈리얼 녹툰 	0.0010
+resize_line_chatwin1000/data166_double8_double.jpg	[14:00] 전체 동두 원일대드 (이즈리얼)카카카정	0.0085
+resize_line_chatwin1000/data166_double9_double.jpg	[03:00] 개씨헌놈 사일러스 와리신 개질만다진자 쎅	0.0002
+resize_line_chatwin1000/data166_double10_double.jpg	[14:10] 동두변 원일대표 (이즈리얼 잘못했어	0.0204
+resize_line_chatwin1000/data166_double11_double.jpg	[14:22 오태식 (레혁혼님이 적이 사라갔다고 알릴 졷	0.0013
+resize_line_chatwin1000/data166_double12_double.jpg	[14:14] 동두천 원일대포 (이즈리얼 마지막	0.1395
+resize_line_chatwin1000/data166_double13_double.jpg	[14:18] 동두천 원딜대표 (이즈리얼): 븍 ~	0.0022
+resize_line_chatwin1000/data166_double14_double.jpg	[14:07] 동두췬 뭔밀대표 (이즈리얼 씨저라스쎄 	0.0048
+resize_line_chatwin1000/data166_double15_double.jpg	[14:16] ufxis (녹턴) 찌질하다 참	0.0201
+resize_line_chatwin1000/data166_double16_double.jpg	[13:37] 오태식이 (레넥톤): 나이따 ^	0.3330
+resize_line_chatwin1000/data166_double17_double.jpg	[14:17] ufkif (녹턴 $ $    	0.0145
+resize_line_chatwin1000/data166_double18_double.jpg	[14:17] 동두천 원딜대표 (이즈리얼 기회임	0.0957
+resize_line_chatwin1000/data166_double_double.jpg	[14:05] 오태식 (레넥톤님이 가고 있을 쎅	0.0131
+resize_line_chatwin1000/data167_double2_double.jpg	[309 돌두천 뭔밀대포 (이적리얼 키    	0.0570
+resize_line_chatwin1000/data167_double3_double.jpg	[32:55] 동두천 원밑대도 (이즈리얼 제라스	0.0313
+resize_line_chatwin1000/data167_double4_double.jpg	[32:44] 오태식 (레넥톤): 꽁송이라니간	0.0762
+resize_line_chatwin1000/data167_double5_double.jpg	(32:44 오태식 (레넥톤) 이렐또으면 씝 	0.0031
+resize_line_chatwin1000/data167_double6_double.jpg	[02:26] 오태식이 (레넥톤) 강미드모여서	0.3397
+resize_line_chatwin1000/data167_double7_double.jpg	[32:9] uxsiit 녹복턴) 생각없는 미든데 ^	0.0075
+resize_line_chatwin1000/data167_double8_double.jpg	[34: ifkit 녹턴 서런 졷 쳐라 쎅라 	0.0197
+resize_line_chatwin1000/data167_double9_double.jpg	(3245 uvkis (녹턴) 속좁이 원밀에 	0.0985
+resize_line_chatwin1000/data167_double10_double.jpg	[32:5 동두천 뭔딜대표 (이즈리얼): 이것는뎅 	0.0040
+resize_line_chatwin1000/data167_double11_double.jpg	눈 ) 씨뉴 :                 	0.0001
+resize_line_chatwin1000/data167_double12_double.jpg	[32:56] 동두천 원맡대도 (이즈리얼): 머리봐았으면	0.0245
+resize_line_chatwin1000/data167_double13_double.jpg	[32:40] 오태식크 (레넥톤): 왜쳐 씝 	0.1272
+resize_line_chatwin1000/data167_double14_double.jpg	(3233] 오태식이 (레넥톤): 광콩송인데 졷	0.0020
+resize_line_chatwin1000/data167_double15_double.jpg	[344 똥두현 연일다도 이초려알에 쒸m m 	0.0000
+resize_line_chatwin1000/data167_double16_double.jpg	[34:49] 동두천 뭔밀대포 (즈리얼 그냥 	0.0052
+resize_line_chatwin1000/data167_double17_double.jpg	[32:46] fiksif (녹턴 제발    	0.1436
+resize_line_chatwin1000/data167_double18_double.jpg	[32:28] vfski (녹턴) 왜 안지는 거야 	0.1340
+resize_line_chatwin1000/data167_double_double.jpg	[32:02] 동두천 원밀대표 (이즈리얼): 솨	0.0214
+resize_line_chatwin1000/data168_double2_double.jpg	[14:22] 다 피피라나 내가 생각한밀이 아닌데 죶	0.0036
+resize_line_chatwin1000/data168_double3_double.jpg	[20:17 ykhia 이이적리얼 난 저거랑 이길생각없는 	0.0026
+resize_line_chatwin1000/data168_double4_double.jpg	[14:44 작다 피오라사 카이사 왜케 쌰냐 쎅	0.0162
+resize_line_chatwin1000/data168_double5_double.jpg	[14:33] 깎 다 (피오라)야       	0.7540
+resize_line_chatwin1000/data168_double_double.jpg	[04:40] cow] fakai이 (싸률리스 시끗하이지 죶	0.0000
+resize_line_chatwin1000/data169_double2_double.jpg	[10:00] [57: 동두천 원밀대표 이즈리얼 위치 졷	0.0000
+resize_line_chatwin1000/data169_double3_double.jpg	[10:0 전체 동두천 뭔일대도 이즈리얼 바털	0.0519
+resize_line_chatwin1000/data169_double4_double.jpg	[11:5 ]세 동두천 뭔밀대트 이즈리얼 레드	0.0077
+resize_line_chatwin1000/data169_double5_double.jpg	[10:01] 전전체 동두천 뭔일대포 이즈리얼 강피	0.0071
+resize_line_chatwin1000/data169_double6_double.jpg	[11: 전체 동두천 뭔일대도 (이즈리얼 녹둔 ^	0.0484
+resize_line_chatwin1000/data169_double7_double.jpg	[11:0 ] 세체i 동두 원밀대드 (이즈리얼)	0.0004
+resize_line_chatwin1000/data169_double8_double.jpg	[11:40] 정치 동두한 원일대도 이즈리얼 다해트	0.0008
+resize_line_chatwin1000/data169_double9_double.jpg	[10:50] 전체 동두천 원답대도 (이즈리얼 사오센	0.0023
+resize_line_chatwin1000/data169_double10_double.jpg	[10:4 ]제1 동두천 원밀대도 (이즈리얼 인장	0.0037
+resize_line_chatwin1000/data169_double11_double.jpg	[01: 0겠게 동두한 뭔일어도 (이즈리얼 먹을듯	0.0009
+resize_line_chatwin1000/data169_double_double.jpg	[11:00] 전체 동두천 뭔밀대드 (이즈리얼 보티핑	0.0003
+resize_line_chatwin1000/data170_double2_double.jpg	[00:08] 동두천 원딜대포 (이즈리얼 개뇸	0.1302
+resize_line_chatwin1000/data170_double3_double.jpg	[00:08] 동두천 뭔밀대포 (이즈리얼 제 스라스 ;	0.0107
+resize_line_chatwin1000/data170_double4_double.jpg	(28:35] 동두천 원밀대표 (이즈리얼): 졷	0.0106
+resize_line_chatwin1000/data170_double5_double.jpg	[24:0]] 등두천 뭔일대도 (이즈리얼) 끌어드린 졷	0.0024
+resize_line_chatwin1000/data170_double6_double.jpg	[09:44] 동두천 원밀대포 (이즈리얼): 어때써 씝	0.0021
+resize_line_chatwin1000/data170_double7_double.jpg	[29:58] 오태식이 (레넥톤): 국음   	0.1666
+resize_line_chatwin1000/data170_double8_double.jpg	! [00] 동두현 원일하도 이즈려얼 쇄 m =팏	0.0000
+resize_line_chatwin1000/data170_double9_double.jpg	[30:09] 동두천 원밀대표 (이즈리얼): 역겹네	0.4208
+resize_line_chatwin1000/data170_double10_double.jpg	씝 [29:03] ufkif (녹턴님님 가고 있음	0.0263
+resize_line_chatwin1000/data170_double11_double.jpg	[28:40] 동두췬 뭔밀대표 (이즈리얼어 개꿀 쎅	0.0022
+resize_line_chatwin1000/data170_double_double.jpg	[30:0 ]두천 원밀대표 (이즈리얼 르아  	0.0426
+resize_line_chatwin1000/data171_double2_double.jpg	[01:1 전체 동두건 뭔알대도 (이르리얼 골드에	0.0155
+resize_line_chatwin1000/data171_double3_double.jpg	[00:40] 정쳐 긴가인가하면서 (트의치 인정 죶	0.0040
+resize_line_chatwin1000/data171_double4_double.jpg	[10:06] [겠체] 길치소탱 (레오나) 뭔일질하면데	0.0005
+resize_line_chatwin1000/data171_double5_double.jpg	[16: 전체 뒤두천 뭔일대도 (이즈리얼 (럭있는 쎅	0.0006
+resize_line_chatwin1000/data171_double6_double.jpg	[00:33:31] 지기 한카한면 세트): 런인하먹들면 (이보	0.0000
+resize_line_chatwin1000/data171_double7_double.jpg	(08f 0전계 동두 원일대표 (이즈리얼) 늙며 뇨	0.0000
+resize_line_chatwin1000/data171_double8_double.jpg	[00: 0져 달두현 원답대는 (즈리얼    	0.0001
+resize_line_chatwin1000/data171_double9_double.jpg	[02:1 ]31 달두면 월대로지 (입냐늠 씨팏	0.0000
+resize_line_chatwin1000/data171_double10_double.jpg	[10: 적발 제라스 넘 의드 원로 원로시간 t	0.0014
+resize_line_chatwin1000/data171_double11_double.jpg	[10:00] 전집계 동두헌 뭔답대표 (이즈리얼): 게입안	0.0038
+resize_line_chatwin1000/data171_double12_double.jpg	[09:53] (전체 김치스탕 (레오나) 써형 	0.0171
+resize_line_chatwin1000/data171_double13_double.jpg	[09551 ufkis (녹턴 님이 가고 있음	0.0309
+resize_line_chatwin1000/data171_double14_double.jpg	[06:66] 전체 동두천 원밀대표 (이즈리얼) 이	0.0089
+resize_line_chatwin1000/data171_double_double.jpg	[00:00] 전체 동두건 원일대드 이이즈리얼 서못이랑	0.0008
+resize_line_chatwin1000/data172_double2_double.jpg	[03:11] 쾨 (엘리스 님이 전령의 눈을 파괴겠습니다 ^	0.0000
+resize_line_chatwin1000/data172_double3_double.jpg	[00:25] kokia (이즈리얼 이가서: 건드르는데 정미드갈 졷	0.0003
+resize_line_chatwin1000/data172_double4_double.jpg	이제 신호를 무시합니다 ikokia ,    	0.1937
+resize_line_chatwin1000/data172_double5_double.jpg	[10:03] koxia (이즈리얼) 경나가삽	0.3631
+resize_line_chatwin1000/data172_double6_double.jpg	[11:24] 꼰 성 (요네):저저테     	0.8767
+resize_line_chatwin1000/data172_double7_double.jpg	[11:34] kokia (이즈리얼 템참 시 	0.0246
+resize_line_chatwin1000/data172_double8_double.jpg	[11:26] 꼰 성 (요네) 그래요     	0.9849
+resize_line_chatwin1000/data172_double9_double.jpg	[11:23] 꼰 성 (요네): 근데왜    	0.9725
+resize_line_chatwin1000/data172_double10_double.jpg	[11:09] 꼰 성 요요네) 그래요     	0.3756
+resize_line_chatwin1000/data172_double11_double.jpg	[11:09] 꼰 성 (외네): 왜올라와서  	0.3862
+resize_line_chatwin1000/data172_double12_double.jpg	[11:20] kokia (이즈리얼): 서쿡이 s건들잖슴	0.0249
+resize_line_chatwin1000/data172_double13_double.jpg	[11:15] 깎 다 (피오라) 아 건들수도 이	0.3925
+resize_line_chatwin1000/data172_double_double.jpg	이제 감정포현을 무시합니다 yoxial    	0.3062
+resize_line_chatwin1000/data173_double2_double.jpg	[10:26] koxia (이즈리얼): 이거스 건	0.1418
+resize_line_chatwin1000/data173_double3_double.jpg	[10:03] kovkia (이즈리얼): 강나가삼 	0.2736
+resize_line_chatwin1000/data173_double4_double.jpg	이제 감정표현을 무시합니다 lokia'    	0.3198
+resize_line_chatwin1000/data173_double5_double.jpg	[11:23] 꼰 성 (요네): 근데왜    	0.9421
+resize_line_chatwin1000/data173_double6_double.jpg	[11:24] 꼰 성 (요네) 저한테     	0.5311
+resize_line_chatwin1000/data173_double7_double.jpg	[11:16] 꼰 성 (요네) 그래요     	0.4174
+resize_line_chatwin1000/data173_double8_double.jpg	[11:25] 깎 다 (피오라): 아들수도 이	0.2604
+resize_line_chatwin1000/data173_double9_double.jpg	[11:20] hokia (이즈리얼 서 이표이 s신들잡슴	0.0017
+resize_line_chatwin1000/data173_double10_double.jpg	] 신호를 무시합니다 ikokia)      	0.0197
+resize_line_chatwin1000/data173_double11_double.jpg	[11:09] 꼰 성 (요네) 그래요     	0.9102
+resize_line_chatwin1000/data173_double12_double.jpg	[11:09] 꼰 성 (요네): 왜올라와서 씝	0.3349
+resize_line_chatwin1000/data173_double13_double.jpg	[11:34] kokia (이즈리얼 템끔 시 	0.2562
+resize_line_chatwin1000/data173_double_double.jpg	[06:33] 테 (려스스 님이 전립의 는을 파괴겠습니다	0.0006
+resize_line_chatwin1000/data174_double2_double.jpg	[28:40] 등두컨 원밀대포 (이즈리얼 (꿀 ,	0.0001
+resize_line_chatwin1000/data174_double3_double.jpg	[29:00] 동두천 원일대표 (이즈리얼 끌어드린 *	0.0092
+resize_line_chatwin1000/data174_double4_double.jpg	[09:44] 동두천 원달대토 이츠리얼): 어떠써	0.0326
+resize_line_chatwin1000/data174_double_double.jpg	[29:55] 동두천 뭔밀대표 (이즈리얼) 졷	0.0570
+resize_line_chatwin1000/data175_double2_double.jpg	구입 했습니다                  	0.9500
+resize_line_chatwin1000/data175_double3_double.jpg	[01:00] 흐럽지 위랑히 빅토로넘시 적이 싸것하고 알림 	0.0000
+resize_line_chatwin1000/data175_double4_double.jpg	[17:42] mukerr (헤카림) 저사집 가난집 가없냐	0.0010
+resize_line_chatwin1000/data175_double_double.jpg	(0::9] 오함지줄 우타님 먹토르님이 위럼 (함물보: 씝	0.0000
+resize_line_chatwin1000/data250_double2_double.jpg	[08:5 ]03] 죤잘자통이 (워윅 제라스 데려가라	0.0107
+resize_line_chatwin1000/data250_double3_double.jpg	[08:66] 전체 존질자튼이 (웨력 (섭다 씝	0.0000
+resize_line_chatwin1000/data250_double4_double.jpg	구입했습니다 죶                 	0.0706
+resize_line_chatwin1000/data250_double5_double.jpg	(0944 minxiocod (람머스닙이 가고 있음	0.1335
+resize_line_chatwin1000/data250_double6_double.jpg	[08:32] 멀히 서보면 푸준봄 (피오라): 아 	0.1406
+resize_line_chatwin1000/data250_double7_double.jpg	아닙니다 친구 씝                	0.2865
+resize_line_chatwin1000/data250_double8_double.jpg	[08: 쉑표밀 이즈리얼 미친색 m 스스   	0.0002
+resize_line_chatwin1000/data250_double9_double.jpg	[이이] 뵈꼴달 (이즈리얼 내가말       	0.0349
+resize_line_chatwin1000/data250_double10_double.jpg	( [28:37:17] 개통령 (창스): 체라쓰는 고렁게 하는게	0.0000
+resize_line_chatwin1000/data250_double11_double.jpg	[05:00] 빛좇데 이즈리얼 저거      	0.0076
+resize_line_chatwin1000/data250_double12_double.jpg	[07이0] 빛꽂밀 (이즈리얼 했지      	0.0069
+resize_line_chatwin1000/data250_double13_double.jpg	[08:44] 시낸촌 (신드하 정신병 있음 제라스	0.0789
+resize_line_chatwin1000/data250_double14_double.jpg	[09:11] 빚꼴밀 (이즈리얼): 문제았다고	0.1929
+resize_line_chatwin1000/data250_double_double.jpg	, [08:4 멀리시보면꾸꾸 본트븐 (외라라 오니 아잡다 쎅	0.0000
+resize_line_chatwin1000/data251_double2_double.jpg	[49:6] 짜 씌짜 스 신 (인전이 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데	0.0133
+resize_line_chatwin1000/data251_double3_double.jpg	[23:44] 아무라인이나줘 (아리 년 브론존데 죶	0.0214
+resize_line_chatwin1000/data251_double4_double.jpg	, 991 아무라인이나나 (아해): 왜 끌든에어냐 졷	0.0000
+resize_line_chatwin1000/data251_double5_double.jpg	[22:41] 차쓰 짜 스 신신 무슨 내탓을하지을	0.0070
+resize_line_chatwin1000/data251_double6_double.jpg	[23:33] 이무라인이나줘 (아히): 수준떨어지는놈이	0.0640
+resize_line_chatwin1000/data251_double7_double.jpg	[24: 짜쓰 짜스 [3 저러니 골드겠지만  	0.0003
+resize_line_chatwin1000/data251_double8_double.jpg	[24:1e 찌씌쓰 스 스 진라스 씨에스에  	0.0180
+resize_line_chatwin1000/data251_double9_double.jpg	[21:20] 짜 쓰 짜스 시신 목쳐라교하나)	0.0208
+resize_line_chatwin1000/data251_double10_double.jpg	[21:20] 아무라인이나 (아리) 개벌레가 	0.5673
+resize_line_chatwin1000/data251_double11_double.jpg	미친듯이 나니까                 	0.9939
+resize_line_chatwin1000/data251_double12_double.jpg	씝 [24: 아무려인이나줘 시아하시 제타스고 니발이고 뭔말차이	0.0000
+resize_line_chatwin1000/data251_double13_double.jpg	[21:23] 짜 쓰 짜 스 (진): 니2을 	0.0401
+resize_line_chatwin1000/data251_double14_double.jpg	[21:1 ] 씌 짜 스 진 씨끼       	0.0037
+resize_line_chatwin1000/data251_double_double.jpg	[23:15 아무라인이나 (아히) 누구 계정 벌려하	0.0164
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double10_double-checkpoint.jpg	[11:34] 오 퉤 (신 짜오 잡자     	0.8910
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double11_double-checkpoint.jpg	[01:55] 인간제는지지 여루해요 미미스 포츈 머깟하고실네	0.0016
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double12_double-checkpoint.jpg	[11:39] 오 퉤 (신 짜오) 람까불어보자	0.2146
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double13_double-checkpoint.jpg	[11:22] 까편터 (다리우스) 생각    	0.1284
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double_double-checkpoint.jpg	[13: 인간쳐는지쿠해요 미스 포츈 이기든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지	0.0156
+resize_line_chatwin1000/.ipynb_checkpoints/data129_double11_double-checkpoint.jpg	[10:24] 이러지맙시다 (볼리베어 쩝   	0.6707
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double10_double-checkpoint.jpg	[07: [37 똥구녀서은 (카럼)지 지트자 던섹다 던쎅	0.0000
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double11_double-checkpoint.jpg	[07:40] 세전 iardo 니코 저라스 리좃좀 졷	0.0000
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double17_double-checkpoint.jpg	[07:56] (전체 인터섹션 (카밀): 찌 	0.1465
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double19_double-checkpoint.jpg	[07:33] 건전체 인터섹션 (카밀): 4계	0.0378
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double_double-checkpoint.jpg	씨 니씨끼 더니                 	0.0001
+resize_line_chatwin1000/.ipynb_checkpoints/data145_double10_double-checkpoint.jpg	[01:09] 인터석년 (카골) 초반에만 졷 많이 의주설	0.0017
+resize_line_chatwin1000/.ipynb_checkpoints/data145_double_double-checkpoint.jpg	[01:08] 인터섹션 (카밀): 바로 갱임 	0.2079
+resize_line_chatwin1000/.ipynb_checkpoints/data251_double13_double-checkpoint.jpg	[21:23] 짜 쓰 짜 스 (진): 니2을 	0.0401
+resize_line_chatwin1000/data126_double2_double.jpg	[11:33] 오 퉤 (신 자오님이 가고 있음 	0.5302
+resize_line_chatwin1000/data126_double3_double.jpg	[12:46] 소환사구경터 (오리아      	0.7823
+resize_line_chatwin1000/data126_double4_double.jpg	[14:4인 인간계는지지 해루해서 미스 프츈 진짜 는	0.0055
+resize_line_chatwin1000/data126_double5_double.jpg	^ [13:52] 인간계는지 투해요 미스스 프춘 (리이다 쎅	0.0026
+resize_line_chatwin1000/data126_double6_double.jpg	[13:24] 오 퉤 (신 자오님이 가고 있음 	0.3827
+resize_line_chatwin1000/data126_double7_double.jpg	vy-a 4w-w-w-w-w- ~-      	0.0004
+resize_line_chatwin1000/data126_double8_double.jpg	[11:51] 편편티 (다리우스) 궁     	0.0980
+resize_line_chatwin1000/data126_double9_double.jpg	[11:50] 예편티 (다리우스) 쉔     	0.1741
+resize_line_chatwin1000/data126_double10_double.jpg	[11:34] 오 퉤 (신 짜오 잡자     	0.8910
+resize_line_chatwin1000/data126_double11_double.jpg	[01:55] 인간제는지지 여루해요 미미스 포츈 머깟하고실네	0.0016
+resize_line_chatwin1000/data126_double12_double.jpg	[11:39] 오 퉤 (신 짜오) 람까불어보자	0.2146
+resize_line_chatwin1000/data126_double13_double.jpg	[11:22] 까편터 (다리우스) 생각    	0.1284
+resize_line_chatwin1000/data126_double_double.jpg	[13: 인간쳐는지쿠해요 미스 포츈 이기든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지	0.0156
+resize_line_chatwin1000/data127_double2_double.jpg	[1133 살 퉤 (신 짜오 시료 성픈    	0.0021
+resize_line_chatwin1000/data127_double3_double.jpg	[11:23] 소환사사경터다 오오하아니님이 제어 와드	0.1054
+resize_line_chatwin1000/data127_double4_double.jpg	[17:37] 쉑 퉤 신 짜외님이 가고 있음 	0.0307
+resize_line_chatwin1000/data127_double5_double.jpg	구입입 했습니다다 ,              	0.0539
+resize_line_chatwin1000/data127_double6_double.jpg	[11:33] 뮷 퉤 신 자외님이 가고 있은 죶	0.0008
+resize_line_chatwin1000/data127_double7_double.jpg	이제 감정표현을 무시합니다 인간계는지 해에요 	0.1029
+resize_line_chatwin1000/data127_double8_double.jpg	[11: 인전게는지들 (미스 미순 더룩하고의서	0.0000
+resize_line_chatwin1000/data127_double9_double.jpg	[11:29] 오 퉤 (신 짜오) 함     	0.8821
+resize_line_chatwin1000/data127_double10_double.jpg	0133 인선계는지 하으 지스 프좆 죄라스 ^	0.0000
+resize_line_chatwin1000/data127_double11_double.jpg	[11:33] 오 퉤 (신 짜오님이 가고 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음	0.0000
+resize_line_chatwin1000/data127_double12_double.jpg	[11:28] 오 퉤 (신 짜오): oka  	0.3736
+resize_line_chatwin1000/data127_double13_double.jpg	[11:39] 오둬 (신 짜오): 함까들어보자 	0.1001
+resize_line_chatwin1000/data127_double14_double.jpg	[11:34] 오 퉤 (신 짜외) 잡자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 	0.0000
+resize_line_chatwin1000/data127_double15_double.jpg	[11:31] 오 퉤 (신 짜오) 깝쳐보면인몸이	0.0610
+resize_line_chatwin1000/data127_double_double.jpg	[11:39] 퉤 신신 자외 님이 샤코오의 사뢰 지	0.0099
+resize_line_chatwin1000/data128_double2_double.jpg	( [4언서 서북오의 사넷 닙이 끄디다의스 님의 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연	0.0000
+resize_line_chatwin1000/data128_double3_double.jpg	[06:37] 인간계는지지 (루해오 (미스 포춘 시저라스님	0.0101
+resize_line_chatwin1000/data128_double4_double.jpg	[0444 소환사구 정정하): 없르아니님 의림 신토를 보난 싀	0.0000
+resize_line_chatwin1000/data128_double5_double.jpg	(06: 적발 체려스님 요요려 스스트 \료 간로	0.0000
+resize_line_chatwin1000/data128_double6_double.jpg	[04:49] 인간체는 지루해의 미스 포츈 그면먹어요 씝	0.0004
+resize_line_chatwin1000/data128_double7_double.jpg	[08:36] 껴히 (다리우스): 겁나아프네 씝	0.0210
+resize_line_chatwin1000/data128_double8_double.jpg	[08: 인간게놈지 기뤼에 미스 포츈 우려틱 미니언 쎅	0.0001
+resize_line_chatwin1000/data128_double9_double.jpg	[08:31] 편편티 (다리우스) 와     	0.1776
+resize_line_chatwin1000/data128_double_double.jpg	[07:0 편터 (다리우스 님이 사하젓다고 얼칼	0.0015
+resize_line_chatwin1000/data129_double2_double.jpg	` [05:58] 이려지만시 디블려네어): 누기 누구라 두으요	0.0003
+resize_line_chatwin1000/data129_double3_double.jpg	( [555 적발 (제라스넘이 적이 사라것다고 알림 죶	0.0010
+resize_line_chatwin1000/data129_double4_double.jpg	[10:2 ]래한 놈탈린 끼피끼리 두으하) 죳	0.0001
+resize_line_chatwin1000/data129_double5_double.jpg	[10:42] 양면 색종이 (나르) 바릴두의겠지 쎅	0.0872
+resize_line_chatwin1000/data129_double6_double.jpg	(0에:51] (레년 선비두토 케이틀린) 저라스 신피주면	0.0000
+resize_line_chatwin1000/data129_double7_double.jpg	[03:3 ] 시시 안하로띠 (마오카이) 누구 신고해줄고 	0.0012
+resize_line_chatwin1000/data129_double8_double.jpg	[10:49] 희우린 (베인) 내가 쟤랑와두오하냐	0.3466
+resize_line_chatwin1000/data129_double9_double.jpg	[10:00] 후우린 베인 오픈 이      	0.4122
+resize_line_chatwin1000/data129_double10_double.jpg	[ [10:44] 이러지맙시다 (볼리베어): * 	0.0129
+resize_line_chatwin1000/data129_double11_double.jpg	[10:24] 이러지맙시다 (볼리베어 쩝   	0.6707
+resize_line_chatwin1000/data129_double12_double.jpg	[11:03] 후우린 (베인):        	0.9830
+resize_line_chatwin1000/data129_double13_double.jpg	[10:41] 유쾌한 놈 (탈론 니지     	0.0626
+resize_line_chatwin1000/data129_double14_double.jpg	[10:44] 후우린 (베인):        	0.9557
+resize_line_chatwin1000/data129_double15_double.jpg	[10:11] (전체 컨공의방패 (레오나 제라스 아님 ,	0.0002
+resize_line_chatwin1000/data129_double16_double.jpg	[11:05] 후우린 (베인) 이거 내잘못임이	0.2853
+resize_line_chatwin1000/data129_double_double.jpg	[0444이이 이터지맙시다 볼리버어 넘이 지원 요청을 보엠	0.0015
+resize_line_chatwin1000/data130_double2_double.jpg	[23:07] 71삐 평지 교우 (에코 다리나벌려라 씝	0.0039
+resize_line_chatwin1000/data130_double3_double.jpg	[23:57] 뼈지고우 (에코 오빠손잡고 씝 	0.0746
+resize_line_chatwin1000/data130_double4_double.jpg	, [ss5 적발 소라카님끼끼 쎄지꼬우 에요님게 퇴로 씝	0.0000
+resize_line_chatwin1000/data130_double5_double.jpg	( [s46 적발 소라카님이기 비지고우 (에모님게 (트르 졷	0.0000
+resize_line_chatwin1000/data130_double6_double.jpg	[22:56: 적 씨사카님이끼 (지지우 시에크넘게 할라	0.0000
+resize_line_chatwin1000/data130_double7_double.jpg	^ [09:33] 끼 빼지괴우 (에북 핑o어지 고	0.0000
+resize_line_chatwin1000/data130_double_double.jpg	[23:5 적벌 소라가님이기 (비지지우 시에크님에 탓각	0.0021
+resize_line_chatwin1000/data131_double2_double.jpg	[40:01] 전체 등글동놈구르이 (에료 미셀 씺	0.0005
+resize_line_chatwin1000/data131_double3_double.jpg	[41:09] 듣뇸 젗 시케인 넘을 모저히 먹	0.0029
+resize_line_chatwin1000/data131_double4_double.jpg	[41:03] 서듯의 팔금뒤집개 (오리아나 냄	0.0131
+resize_line_chatwin1000/data131_double5_double.jpg	[41이 ]c제 돋               	0.0455
+resize_line_chatwin1000/data131_double6_double.jpg	[40:44] 전체키 등글듯놈구르미 (에코 빨리 밑	0.0018
+resize_line_chatwin1000/data131_double7_double.jpg	[40:06] saidi to me (카밀): 작수잡아 쎅	0.0313
+resize_line_chatwin1000/data131_double8_double.jpg	[40:10] 전체이 등글 동글구르미 (에코 에고 나가마	0.0253
+resize_line_chatwin1000/data131_double9_double.jpg	[40:10] 박준해 님 (세나 그럼 작수하섹 쎅	0.0038
+resize_line_chatwin1000/data131_double10_double.jpg	[40:57] (진체이 좉 잔시키인 (오떠떠문에 	0.0001
+resize_line_chatwin1000/data131_double11_double.jpg	[39:51] 등글듯놈구르미 (에료 고아잖아 씝	0.0781
+resize_line_chatwin1000/data131_double12_double.jpg	* [40:06] 전체끼 said to-me (카밀): 졎	0.0002
+resize_line_chatwin1000/data131_double13_double.jpg	[40:04] 전체 당글동잡구르미 에에료 안막음	0.0149
+resize_line_chatwin1000/data131_double14_double.jpg	[39:44] said tom (카밀) 짝수지 세나야	0.0584
+resize_line_chatwin1000/data131_double_double.jpg	[40:30] 전체 뒤글동금구르미 에로 나갈 	0.0012
+resize_line_chatwin1000/data132_double2_double.jpg	[17:13] f리놀토 (모데카이제 님이 적 	0.1514
+resize_line_chatwin1000/data132_double3_double.jpg	017: f늘토 모데카이저넘 적이 사리것다고 알릴	0.0010
+resize_line_chatwin1000/data132_double4_double.jpg	[17:13] f어놀토 (모데카이저 님이 적 	0.0421
+resize_line_chatwin1000/data132_double5_double.jpg	[17:05] fo놀토 (모데카이저 님이 우 	0.1212
+resize_line_chatwin1000/data132_double6_double.jpg	[17:00] vrasill (카이사: 부모교육 못받은터	0.2170
+resize_line_chatwin1000/data132_double7_double.jpg	[17:02] uraill (카이사 써렌 이 	0.1556
+resize_line_chatwin1000/data132_double8_double.jpg	[ [07:24] urasil (카이사): 예성에서처나지 꼬말고 쎅	0.0000
+resize_line_chatwin1000/data132_double9_double.jpg	, )) 4 pyw 4             	0.0012
+resize_line_chatwin1000/data132_double10_double.jpg	[17:09] urasill (카이사): 부모부터 ^	0.4237
+resize_line_chatwin1000/data132_double11_double.jpg	u72 아주어먹척걸 (걸러수 타쿄다      	0.0000
+resize_line_chatwin1000/data132_double12_double.jpg	[7711 urasil (카이사) 검하 라  	0.3197
+resize_line_chatwin1000/data132_double13_double.jpg	[17:10] urasill (카이사) 차자교 씝	0.0093
+resize_line_chatwin1000/data132_double14_double.jpg	[17:07] urasill (카이사): 제라스야	0.8111
+resize_line_chatwin1000/data132_double15_double.jpg	[17:09] urasill (카이사) 잃어버린	0.7836
+resize_line_chatwin1000/data132_double_double.jpg	[17:06] fo놀토 (모데카이저 님이 우 	0.5151
+resize_line_chatwin1000/data133_double2_double.jpg	[04: 캐변토 우려카 얘이터거): 침활하라고 쎅	0.0000
+resize_line_chatwin1000/data133_double3_double.jpg	시양용자의 대핵를 이제 문시합니다 (아물라기네)	0.0002
+resize_line_chatwin1000/data133_double4_double.jpg	[06002 이런라분을 나 (알리스턴): 국었는데 씝	0.0002
+resize_line_chatwin1000/data133_double5_double.jpg	[04:6] 이런리븐을 나알리스냐 (밝롯람 쎅	0.0001
+resize_line_chatwin1000/data133_double6_double.jpg	아니이 카련툭 유려카 하이머테게 = 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 	0.0000
+resize_line_chatwin1000/data133_double7_double.jpg	[04:6 이벤리분 봤 (알리스타) 니어 미 	0.0091
+resize_line_chatwin1000/data133_double8_double.jpg	[44i6 이런리븐을 나 (알리스타): 기근데 쎅	0.0023
+resize_line_chatwin1000/data133_double9_double.jpg	(이쉑 키법투 앞런한 (서이6이: 알이이지 보이는	0.0000
+resize_line_chatwin1000/data133_double10_double.jpg	[04:6] 쑤꾸쑤 꾸 (적스님이 가고 있  	0.1989
+resize_line_chatwin1000/data133_double11_double.jpg	웃다4 de 국력하: (가이부가 나까끼) [58: 1구준은	0.0000
+resize_line_chatwin1000/data133_double12_double.jpg	[도4 넘넘토 우레카 (어이데 (써면건 나 전식은에 (	0.0000
+resize_line_chatwin1000/data133_double13_double.jpg	[46] 아탈거이이 (탁니냐나 나비테 시여건저전 쎅	0.0000
+resize_line_chatwin1000/data133_double14_double.jpg	[05:01] 쑤꾸 쑤 꾸팏스 세대로해    	0.0296
+resize_line_chatwin1000/data133_double15_double.jpg	[04221] 쑤 꾸쑤꾸꾸 (적스): 제대로해	0.0839
+resize_line_chatwin1000/data133_double16_double.jpg	[04211] 쑤 꾸 쑤 꾸 (잭스      	0.1379
+resize_line_chatwin1000/data133_double17_double.jpg	[05001] 쑤 꾸 쑤 꾸 (잭스): 아  	0.3076
+resize_line_chatwin1000/data133_double18_double.jpg	[04:4] 아몰라기억 (트리스타나): 뭐함 ,	0.0048
+resize_line_chatwin1000/data133_double19_double.jpg	젗 [40:00] 이련라로을 니알 (알리스야): 서월호타	0.0001
+resize_line_chatwin1000/data133_double_double.jpg	[44:33] 아몰라기의 (트리스타나 알리가 나르었지 너	0.0335
+resize_line_chatwin1000/data134_double2_double.jpg	[05:49] 뚜랍바 누두아 (에코) 막아보자 쎅	0.0314
+resize_line_chatwin1000/data134_double3_double.jpg	[35:53] 뚜랍바두두아 (에코) 막아보자 쎅	0.0872
+resize_line_chatwin1000/data134_double4_double.jpg	[05:52] 두랍바두두아 (에도 아니 억저기 주고 씝	0.0095
+resize_line_chatwin1000/data134_double5_double.jpg	; [05:41] 뚜랍바 뚜두아 에로코 미니언 멀다	0.0030
+resize_line_chatwin1000/data134_double6_double.jpg	` [55:46] 두랍바 두두아 (에코 뇌제기에서 씝	0.0068
+resize_line_chatwin1000/data134_double_double.jpg	[55b22 적 발제저스님이 강각니구 아이명를 구입영습니다	0.0001
+resize_line_chatwin1000/data135_double2_double.jpg	[1111 uai upreme (제드 우디르가 죶	0.0286
+resize_line_chatwin1000/data135_double3_double.jpg	[12:03] usa suoreme (제드 온다니깐 쎅쎅	0.0415
+resize_line_chatwin1000/data135_double4_double.jpg	[1211 ]ua supreme (제드) 아이디 삿냐 니네	0.2891
+resize_line_chatwin1000/data135_double5_double.jpg	[12:35] uranill (카이사: 백만점쳐쳐으면 	0.0161
+resize_line_chatwin1000/data135_double6_double.jpg	[12: urasil (카이사 늣이 키좃   	0.0012
+resize_line_chatwin1000/data135_double7_double.jpg	[12:88 urasili (카이사사 알아야되는거아님	0.1139
+resize_line_chatwin1000/data135_double8_double.jpg	[12:00] usa supreme (제드 도와말라고 죶	0.0673
+resize_line_chatwin1000/data135_double9_double.jpg	[1230 usa nuprem (제드 판단력 없네 ^네	0.0474
+resize_line_chatwin1000/data135_double10_double.jpg	[12:28] usa [50:en] (제드) 하	0.0426
+resize_line_chatwin1000/data135_double11_double.jpg	[12:09] urasill (카이사) 시간버렸네	0.7460
+resize_line_chatwin1000/data135_double12_double.jpg	[11:51] 아주대박보검 (엘리스닙이 가고 있음	0.1384
+resize_line_chatwin1000/data135_double13_double.jpg	[14:11] [s1:46enie (제드 (하면 	0.0686
+resize_line_chatwin1000/data135_double14_double.jpg	[11: urasil (카이사 우디르가오는거랑	0.1920
+resize_line_chatwin1000/data135_double15_double.jpg	[12:18] urasil (카이사 니가   	0.7225
+resize_line_chatwin1000/data135_double16_double.jpg	[12:06] urasill (카이사): e 	0.9486
+resize_line_chatwin1000/data135_double17_double.jpg	' [12:21] urasill (카이사) 미니언쳐먹는거	0.1389
+resize_line_chatwin1000/data135_double18_double.jpg	[02:20] urasiw (카이사 시간어디 다가갖다버림	0.0445
+resize_line_chatwin1000/data135_double19_double.jpg	[11:19] urasill (카이사): 바틸쳐와서 ^	0.0210
+resize_line_chatwin1000/data135_double_double.jpg	[12:26] vrasiw (카이사) 뭐가다른데 쎅	0.0096
+resize_line_chatwin1000/data136_double2_double.jpg	[07:25] 이런리분을 나 (알리스타): 쟤엄다	0.1803
+resize_line_chatwin1000/data136_double3_double.jpg	[07:27] 이런리분을 나 (알리스라 세업율움	0.0802
+resize_line_chatwin1000/data136_double4_double.jpg	[07:24] 이련리븐을 나 리리스타 내가  	0.0396
+resize_line_chatwin1000/data136_double5_double.jpg	[07:28] 이런리분을 나알리스타 죽임 씝 	0.1723
+resize_line_chatwin1000/data136_double_double.jpg	| [03:50] 이런리분나 (알리스타님이 제어	0.2049
+resize_line_chatwin1000/data137_double2_double.jpg	(해이다 (텐들 나라하에 (어당): 이다 띠원표라	0.0000
+resize_line_chatwin1000/data137_double3_double.jpg	[71:3게: (성투 (카하에 (야터이: (해봐하 아니니가 빠러	0.0000
+resize_line_chatwin1000/data137_double4_double.jpg	[08:36] 이런리 분을분나 (알리스타) 사망보험금복	0.0002
+resize_line_chatwin1000/data137_double5_double.jpg	[07:10] 두루리 (나서소) 너명이니해봄 	0.2133
+resize_line_chatwin1000/data137_double_double.jpg	[아니이기 런리분을 나알리스타): 하딩어이 쎅	0.0042
+resize_line_chatwin1000/data138_double2_double.jpg	[03:09] aveng uono xi이즈리얼 (새기분 어중에	0.0005
+resize_line_chatwin1000/data138_double3_double.jpg	[12:56] maeng joon y (이즈리얼) 미니언 	0.1720
+resize_line_chatwin1000/data138_double4_double.jpg	[14: 0니야야): 이아니 (요네): 자려 죶	0.0007
+resize_line_chatwin1000/data138_double5_double.jpg	[12:25] maeng joon yi (이즈리얼 너는	0.4844
+resize_line_chatwin1000/data138_double6_double.jpg	[13:01 maeng jon y (이즈리얼 씨z=	0.0112
+resize_line_chatwin1000/data138_double7_double.jpg	[13:00] maeng jonn yi (이즈리얼 니가절못해 )	0.0226
+resize_line_chatwin1000/data138_double8_double.jpg	[12:00] u니ve monfruv (요네 정신좀 씝	0.0011
+resize_line_chatwin1000/data138_double9_double.jpg	[18:56] maenj joon y (이즈리얼 니가 잘하는게 뭐야	0.0536
+resize_line_chatwin1000/data138_double10_double.jpg	[12:44] maeng joon yi (이즈리얼 진짜	0.8216
+resize_line_chatwin1000/data138_double_double.jpg	[12:52] maeng joon yi (이즈리얼) 어휴 =	0.1658
+resize_line_chatwin1000/data139_double_double.jpg	(08:10] 청모드여 리산타레님이 위흥 신뢰를 보셰 쎅	0.0000
+resize_line_chatwin1000/data140_double2_double.jpg	[03:17] 초모드여 리산드라님이 위창 신회를 브닐 죶	0.0000
+resize_line_chatwin1000/data140_double3_double.jpg	[09:00] 정모드여 미미드 씨이 적이 적라갔다고 살릴	0.0000
+resize_line_chatwin1000/data140_double4_double.jpg	(애니비 청모드여 리산드라님이 젖이 사라짓다고 알	0.0019
+resize_line_chatwin1000/data140_double5_double.jpg	n08미미 창모도여 리산드라닐이 적이 사라갔다고 알칼	0.0029
+resize_line_chatwin1000/data140_double6_double.jpg	[01:42] 유리나르말이 사랑 아르 브다카 순간이동 졷	0.0000
+resize_line_chatwin1000/data140_double7_double.jpg	w계6야5 두의는 밑지다라 이이리업닐끼 적이 사카쳤다고	0.0000
+resize_line_chatwin1000/data140_double_double.jpg	[04:0] 우리나르맞이사 사르 브라음 순것이동 졷	0.0000
+resize_line_chatwin1000/data141_double2_double.jpg	[01:a therflet king 피와와님이 적을 시라스님게 트리	0.0008
+resize_line_chatwin1000/data141_double3_double.jpg	)00:e tre faek ming 띠요라님이 적이 사라라다 얼람 	0.0000
+resize_line_chatwin1000/data141_double4_double.jpg	[00:7] 받장 조이는이 적이 사라갔다고 알람 	0.0002
+resize_line_chatwin1000/data141_double5_double.jpg	valau] 먹수말을게 flam서a 의국 똑탄하이 여부부	0.0000
+resize_line_chatwin1000/data141_double6_double.jpg	쫒휴 휘 휘 죶                 	0.0095
+resize_line_chatwin1000/data141_double7_double.jpg	[1044 몽 환 짱 조이)모         	0.1149
+resize_line_chatwin1000/data141_double8_double.jpg	[01] * 환 짬 즈이 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락	0.0000
+resize_line_chatwin1000/data141_double9_double.jpg	[1pa 몽 봔 짱 (즈이)부 부       	0.0142
+resize_line_chatwin1000/data141_double10_double.jpg	[10:12] 몽 환 짱 (즈이 픔쎅     	0.1035
+resize_line_chatwin1000/data141_double11_double.jpg	[10111 통 롼 짱 조이 제라스      	0.0238
+resize_line_chatwin1000/data141_double12_double.jpg	[19: 통 탄 짱 조이 이쓴부임       	0.0017
+resize_line_chatwin1000/data141_double_double.jpg	[22:45 되심 되털을지 카카이사님 지원 요철을 보는 	0.0000
+resize_line_chatwin1000/data143_double_double.jpg	[03:01] 지어의이 세세시구 구계기가 소그다 쳐먹려	0.0000
+resize_line_chatwin1000/data144_double2_double.jpg	[07:01] 전체이 미드노에 싀례쉬 (키밀 z니못하네 	0.0012
+resize_line_chatwin1000/data144_double3_double.jpg	[07:0]] (전체 리쌍 감성 (베인) 다 이방이다 	0.0491
+resize_line_chatwin1000/data144_double4_double.jpg	[06:57] 인터섹식 (키밀 님이 적이 사라것다고 알릴 	0.0607
+resize_line_chatwin1000/data144_double5_double.jpg	[07:48] 전체 인야석션 (카밀): 이간질 시키스)	0.0121
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double10_double-checkpoint.jpg	[11:34] 오 퉤 (신 짜오 잡자     	0.8910
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double11_double-checkpoint.jpg	[01:55] 인간제는지지 여루해요 미미스 포츈 머깟하고실네	0.0016
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double12_double-checkpoint.jpg	[11:39] 오 퉤 (신 짜오) 람까불어보자	0.2146
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double13_double-checkpoint.jpg	[11:22] 까편터 (다리우스) 생각    	0.1284
+resize_line_chatwin1000/.ipynb_checkpoints/data126_double_double-checkpoint.jpg	[13: 인간쳐는지쿠해요 미스 포츈 이기든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지	0.0156
+resize_line_chatwin1000/.ipynb_checkpoints/data129_double11_double-checkpoint.jpg	[10:24] 이러지맙시다 (볼리베어 쩝   	0.6707
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double10_double-checkpoint.jpg	[07: [37 똥구녀서은 (카럼)지 지트자 던섹다 던쎅	0.0000
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double11_double-checkpoint.jpg	[07:40] 세전 iardo 니코 저라스 리좃좀 졷	0.0000
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double17_double-checkpoint.jpg	[07:56] (전체 인터섹션 (카밀): 찌 	0.1465
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double19_double-checkpoint.jpg	[07:33] 건전체 인터섹션 (카밀): 4계	0.0378
+resize_line_chatwin1000/.ipynb_checkpoints/data144_double_double-checkpoint.jpg	씨 니씨끼 더니                 	0.0001
+resize_line_chatwin1000/.ipynb_checkpoints/data145_double10_double-checkpoint.jpg	[01:09] 인터석년 (카골) 초반에만 졷 많이 의주설	0.0017
+resize_line_chatwin1000/.ipynb_checkpoints/data145_double_double-checkpoint.jpg	[01:08] 인터섹션 (카밀): 바로 갱임 	0.2079
+resize_line_chatwin1000/.ipynb_checkpoints/data251_double13_double-checkpoint.jpg	[21:23] 짜 쓰 짜 스 (진): 니2을 	0.0401
+resize_line_chatwin1000/data126_double2_double.jpg	[11:33] 오 퉤 (신 자오님이 가고 있음 	0.5302
+resize_line_chatwin1000/data126_double3_double.jpg	[12:46] 소환사구경터 (오리아      	0.7823
+resize_line_chatwin1000/data126_double4_double.jpg	[14:4인 인간계는지지 해루해서 미스 프츈 진짜 는	0.0055
+resize_line_chatwin1000/data126_double5_double.jpg	^ [13:52] 인간계는지 투해요 미스스 프춘 (리이다 쎅	0.0026
+resize_line_chatwin1000/data126_double6_double.jpg	[13:24] 오 퉤 (신 자오님이 가고 있음 	0.3827
+resize_line_chatwin1000/data126_double7_double.jpg	vy-a 4w-w-w-w-w- ~-      	0.0004
+resize_line_chatwin1000/data126_double8_double.jpg	[11:51] 편편티 (다리우스) 궁     	0.0980
+resize_line_chatwin1000/data126_double9_double.jpg	[11:50] 예편티 (다리우스) 쉔     	0.1741
+resize_line_chatwin1000/data126_double10_double.jpg	[11:34] 오 퉤 (신 짜오 잡자     	0.8910
+resize_line_chatwin1000/data126_double11_double.jpg	[01:55] 인간제는지지 여루해요 미미스 포츈 머깟하고실네	0.0016
+resize_line_chatwin1000/data126_double12_double.jpg	[11:39] 오 퉤 (신 짜오) 람까불어보자	0.2146
+resize_line_chatwin1000/data126_double13_double.jpg	[11:22] 까편터 (다리우스) 생각    	0.1284
+resize_line_chatwin1000/data126_double_double.jpg	[13: 인간쳐는지쿠해요 미스 포츈 이기든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지든 지	0.0156
+resize_line_chatwin1000/data127_double2_double.jpg	[1133 살 퉤 (신 짜오 시료 성픈    	0.0021
+resize_line_chatwin1000/data127_double3_double.jpg	[11:23] 소환사사경터다 오오하아니님이 제어 와드	0.1054
+resize_line_chatwin1000/data127_double4_double.jpg	[17:37] 쉑 퉤 신 짜외님이 가고 있음 	0.0307
+resize_line_chatwin1000/data127_double5_double.jpg	구입입 했습니다다 ,              	0.0539
+resize_line_chatwin1000/data127_double6_double.jpg	[11:33] 뮷 퉤 신 자외님이 가고 있은 죶	0.0008
+resize_line_chatwin1000/data127_double7_double.jpg	이제 감정표현을 무시합니다 인간계는지 해에요 	0.1029
+resize_line_chatwin1000/data127_double8_double.jpg	[11: 인전게는지들 (미스 미순 더룩하고의서	0.0000
+resize_line_chatwin1000/data127_double9_double.jpg	[11:29] 오 퉤 (신 짜오) 함     	0.8821
+resize_line_chatwin1000/data127_double10_double.jpg	0133 인선계는지 하으 지스 프좆 죄라스 ^	0.0000
+resize_line_chatwin1000/data127_double11_double.jpg	[11:33] 오 퉤 (신 짜오님이 가고 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음 있음	0.0000
+resize_line_chatwin1000/data127_double12_double.jpg	[11:28] 오 퉤 (신 짜오): oka  	0.3736
+resize_line_chatwin1000/data127_double13_double.jpg	[11:39] 오둬 (신 짜오): 함까들어보자 	0.1001
+resize_line_chatwin1000/data127_double14_double.jpg	[11:34] 오 퉤 (신 짜외) 잡자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 씝자 	0.0000
+resize_line_chatwin1000/data127_double15_double.jpg	[11:31] 오 퉤 (신 짜오) 깝쳐보면인몸이	0.0610
+resize_line_chatwin1000/data127_double_double.jpg	[11:39] 퉤 신신 자외 님이 샤코오의 사뢰 지	0.0099
+resize_line_chatwin1000/data128_double2_double.jpg	( [4언서 서북오의 사넷 닙이 끄디다의스 님의 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연속킬 연	0.0000
+resize_line_chatwin1000/data128_double3_double.jpg	[06:37] 인간계는지지 (루해오 (미스 포춘 시저라스님	0.0101
+resize_line_chatwin1000/data128_double4_double.jpg	[0444 소환사구 정정하): 없르아니님 의림 신토를 보난 싀	0.0000
+resize_line_chatwin1000/data128_double5_double.jpg	(06: 적발 체려스님 요요려 스스트 \료 간로	0.0000
+resize_line_chatwin1000/data128_double6_double.jpg	[04:49] 인간체는 지루해의 미스 포츈 그면먹어요 씝	0.0004
+resize_line_chatwin1000/data128_double7_double.jpg	[08:36] 껴히 (다리우스): 겁나아프네 씝	0.0210
+resize_line_chatwin1000/data128_double8_double.jpg	[08: 인간게놈지 기뤼에 미스 포츈 우려틱 미니언 쎅	0.0001
+resize_line_chatwin1000/data128_double9_double.jpg	[08:31] 편편티 (다리우스) 와     	0.1776
+resize_line_chatwin1000/data128_double_double.jpg	[07:0 편터 (다리우스 님이 사하젓다고 얼칼	0.0015
+resize_line_chatwin1000/data129_double2_double.jpg	` [05:58] 이려지만시 디블려네어): 누기 누구라 두으요	0.0003
+resize_line_chatwin1000/data129_double3_double.jpg	( [555 적발 (제라스넘이 적이 사라것다고 알림 죶	0.0010
+resize_line_chatwin1000/data129_double4_double.jpg	[10:2 ]래한 놈탈린 끼피끼리 두으하) 죳	0.0001
+resize_line_chatwin1000/data129_double5_double.jpg	[10:42] 양면 색종이 (나르) 바릴두의겠지 쎅	0.0872
+resize_line_chatwin1000/data129_double6_double.jpg	(0에:51] (레년 선비두토 케이틀린) 저라스 신피주면	0.0000
+resize_line_chatwin1000/data129_double7_double.jpg	[03:3 ] 시시 안하로띠 (마오카이) 누구 신고해줄고 	0.0012
+resize_line_chatwin1000/data129_double8_double.jpg	[10:49] 희우린 (베인) 내가 쟤랑와두오하냐	0.3466
+resize_line_chatwin1000/data129_double9_double.jpg	[10:00] 후우린 베인 오픈 이      	0.4122
+resize_line_chatwin1000/data129_double10_double.jpg	[ [10:44] 이러지맙시다 (볼리베어): * 	0.0129
+resize_line_chatwin1000/data129_double11_double.jpg	[10:24] 이러지맙시다 (볼리베어 쩝   	0.6707
+resize_line_chatwin1000/data129_double12_double.jpg	[11:03] 후우린 (베인):        	0.9830
+resize_line_chatwin1000/data129_double13_double.jpg	[10:41] 유쾌한 놈 (탈론 니지     	0.0626
+resize_line_chatwin1000/data129_double14_double.jpg	[10:44] 후우린 (베인):        	0.9557
+resize_line_chatwin1000/data129_double15_double.jpg	[10:11] (전체 컨공의방패 (레오나 제라스 아님 ,	0.0002
+resize_line_chatwin1000/data129_double16_double.jpg	[11:05] 후우린 (베인) 이거 내잘못임이	0.2853
+resize_line_chatwin1000/data129_double_double.jpg	[0444이이 이터지맙시다 볼리버어 넘이 지원 요청을 보엠	0.0015
+resize_line_chatwin1000/data130_double2_double.jpg	[23:07] 71삐 평지 교우 (에코 다리나벌려라 씝	0.0039
+resize_line_chatwin1000/data130_double3_double.jpg	[23:57] 뼈지고우 (에코 오빠손잡고 씝 	0.0746
+resize_line_chatwin1000/data130_double4_double.jpg	, [ss5 적발 소라카님끼끼 쎄지꼬우 에요님게 퇴로 씝	0.0000
+resize_line_chatwin1000/data130_double5_double.jpg	( [s46 적발 소라카님이기 비지고우 (에모님게 (트르 졷	0.0000
+resize_line_chatwin1000/data130_double6_double.jpg	[22:56: 적 씨사카님이끼 (지지우 시에크넘게 할라	0.0000
+resize_line_chatwin1000/data130_double7_double.jpg	^ [09:33] 끼 빼지괴우 (에북 핑o어지 고	0.0000
+resize_line_chatwin1000/data130_double_double.jpg	[23:5 적벌 소라가님이기 (비지지우 시에크님에 탓각	0.0021
+resize_line_chatwin1000/data131_double2_double.jpg	[40:01] 전체 등글동놈구르이 (에료 미셀 씺	0.0005
+resize_line_chatwin1000/data131_double3_double.jpg	[41:09] 듣뇸 젗 시케인 넘을 모저히 먹	0.0029
+resize_line_chatwin1000/data131_double4_double.jpg	[41:03] 서듯의 팔금뒤집개 (오리아나 냄	0.0131
+resize_line_chatwin1000/data131_double5_double.jpg	[41이 ]c제 돋               	0.0455
+resize_line_chatwin1000/data131_double6_double.jpg	[40:44] 전체키 등글듯놈구르미 (에코 빨리 밑	0.0018
+resize_line_chatwin1000/data131_double7_double.jpg	[40:06] saidi to me (카밀): 작수잡아 쎅	0.0313
+resize_line_chatwin1000/data131_double8_double.jpg	[40:10] 전체이 등글 동글구르미 (에코 에고 나가마	0.0253
+resize_line_chatwin1000/data131_double9_double.jpg	[40:10] 박준해 님 (세나 그럼 작수하섹 쎅	0.0038
+resize_line_chatwin1000/data131_double10_double.jpg	[40:57] (진체이 좉 잔시키인 (오떠떠문에 	0.0001
+resize_line_chatwin1000/data131_double11_double.jpg	[39:51] 등글듯놈구르미 (에료 고아잖아 씝	0.0781
+resize_line_chatwin1000/data131_double12_double.jpg	* [40:06] 전체끼 said to-me (카밀): 졎	0.0002
+resize_line_chatwin1000/data131_double13_double.jpg	[40:04] 전체 당글동잡구르미 에에료 안막음	0.0149
+resize_line_chatwin1000/data131_double14_double.jpg	[39:44] said tom (카밀) 짝수지 세나야	0.0584
+resize_line_chatwin1000/data131_double_double.jpg	[40:30] 전체 뒤글동금구르미 에로 나갈 	0.0012
+resize_line_chatwin1000/data132_double2_double.jpg	[17:13] f리놀토 (모데카이제 님이 적 	0.1514
+resize_line_chatwin1000/data132_double3_double.jpg	017: f늘토 모데카이저넘 적이 사리것다고 알릴	0.0010
+resize_line_chatwin1000/data132_double4_double.jpg	[17:13] f어놀토 (모데카이저 님이 적 	0.0421
+resize_line_chatwin1000/data132_double5_double.jpg	[17:05] fo놀토 (모데카이저 님이 우 	0.1212
+resize_line_chatwin1000/data132_double6_double.jpg	[17:00] vrasill (카이사: 부모교육 못받은터	0.2170
+resize_line_chatwin1000/data132_double7_double.jpg	[17:02] uraill (카이사 써렌 이 	0.1556
+resize_line_chatwin1000/data132_double8_double.jpg	[ [07:24] urasil (카이사): 예성에서처나지 꼬말고 쎅	0.0000
+resize_line_chatwin1000/data132_double9_double.jpg	, )) 4 pyw 4             	0.0012
+resize_line_chatwin1000/data132_double10_double.jpg	[17:09] urasill (카이사): 부모부터 ^	0.4237
+resize_line_chatwin1000/data132_double11_double.jpg	u72 아주어먹척걸 (걸러수 타쿄다      	0.0000
+resize_line_chatwin1000/data132_double12_double.jpg	[7711 urasil (카이사) 검하 라  	0.3197
+resize_line_chatwin1000/data132_double13_double.jpg	[17:10] urasill (카이사) 차자교 씝	0.0093
+resize_line_chatwin1000/data132_double14_double.jpg	[17:07] urasill (카이사): 제라스야	0.8111
+resize_line_chatwin1000/data132_double15_double.jpg	[17:09] urasill (카이사) 잃어버린	0.7836
+resize_line_chatwin1000/data132_double_double.jpg	[17:06] fo놀토 (모데카이저 님이 우 	0.5151
+resize_line_chatwin1000/data133_double2_double.jpg	[04: 캐변토 우려카 얘이터거): 침활하라고 쎅	0.0000
+resize_line_chatwin1000/data133_double3_double.jpg	시양용자의 대핵를 이제 문시합니다 (아물라기네)	0.0002
+resize_line_chatwin1000/data133_double4_double.jpg	[06002 이런라분을 나 (알리스턴): 국었는데 씝	0.0002
+resize_line_chatwin1000/data133_double5_double.jpg	[04:6] 이런리븐을 나알리스냐 (밝롯람 쎅	0.0001
+resize_line_chatwin1000/data133_double6_double.jpg	아니이 카련툭 유려카 하이머테게 = 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 차단 ^ 	0.0000
+resize_line_chatwin1000/data133_double7_double.jpg	[04:6 이벤리분 봤 (알리스타) 니어 미 	0.0091
+resize_line_chatwin1000/data133_double8_double.jpg	[44i6 이런리븐을 나 (알리스타): 기근데 쎅	0.0023
+resize_line_chatwin1000/data133_double9_double.jpg	(이쉑 키법투 앞런한 (서이6이: 알이이지 보이는	0.0000
+resize_line_chatwin1000/data133_double10_double.jpg	[04:6] 쑤꾸쑤 꾸 (적스님이 가고 있  	0.1989
+resize_line_chatwin1000/data133_double11_double.jpg	웃다4 de 국력하: (가이부가 나까끼) [58: 1구준은	0.0000
+resize_line_chatwin1000/data133_double12_double.jpg	[도4 넘넘토 우레카 (어이데 (써면건 나 전식은에 (	0.0000
+resize_line_chatwin1000/data133_double13_double.jpg	[46] 아탈거이이 (탁니냐나 나비테 시여건저전 쎅	0.0000
+resize_line_chatwin1000/data133_double14_double.jpg	[05:01] 쑤꾸 쑤 꾸팏스 세대로해    	0.0296
+resize_line_chatwin1000/data133_double15_double.jpg	[04221] 쑤 꾸쑤꾸꾸 (적스): 제대로해	0.0839
+resize_line_chatwin1000/data133_double16_double.jpg	[04211] 쑤 꾸 쑤 꾸 (잭스      	0.1379
+resize_line_chatwin1000/data133_double17_double.jpg	[05001] 쑤 꾸 쑤 꾸 (잭스): 아  	0.3076
+resize_line_chatwin1000/data133_double18_double.jpg	[04:4] 아몰라기억 (트리스타나): 뭐함 ,	0.0048
+resize_line_chatwin1000/data133_double19_double.jpg	젗 [40:00] 이련라로을 니알 (알리스야): 서월호타	0.0001
+resize_line_chatwin1000/data133_double_double.jpg	[44:33] 아몰라기의 (트리스타나 알리가 나르었지 너	0.0335
+resize_line_chatwin1000/data134_double2_double.jpg	[05:49] 뚜랍바 누두아 (에코) 막아보자 쎅	0.0314
+resize_line_chatwin1000/data134_double3_double.jpg	[35:53] 뚜랍바두두아 (에코) 막아보자 쎅	0.0872
+resize_line_chatwin1000/data134_double4_double.jpg	[05:52] 두랍바두두아 (에도 아니 억저기 주고 씝	0.0095
+resize_line_chatwin1000/data134_double5_double.jpg	; [05:41] 뚜랍바 뚜두아 에로코 미니언 멀다	0.0030
+resize_line_chatwin1000/data134_double6_double.jpg	` [55:46] 두랍바 두두아 (에코 뇌제기에서 씝	0.0068
+resize_line_chatwin1000/data134_double_double.jpg	[55b22 적 발제저스님이 강각니구 아이명를 구입영습니다	0.0001
+resize_line_chatwin1000/data135_double2_double.jpg	[1111 uai upreme (제드 우디르가 죶	0.0286
+resize_line_chatwin1000/data135_double3_double.jpg	[12:03] usa suoreme (제드 온다니깐 쎅쎅	0.0415
+resize_line_chatwin1000/data135_double4_double.jpg	[1211 ]ua supreme (제드) 아이디 삿냐 니네	0.2891
+resize_line_chatwin1000/data135_double5_double.jpg	[12:35] uranill (카이사: 백만점쳐쳐으면 	0.0161
+resize_line_chatwin1000/data135_double6_double.jpg	[12: urasil (카이사 늣이 키좃   	0.0012
+resize_line_chatwin1000/data135_double7_double.jpg	[12:88 urasili (카이사사 알아야되는거아님	0.1139
+resize_line_chatwin1000/data135_double8_double.jpg	[12:00] usa supreme (제드 도와말라고 죶	0.0673
+resize_line_chatwin1000/data135_double9_double.jpg	[1230 usa nuprem (제드 판단력 없네 ^네	0.0474
+resize_line_chatwin1000/data135_double10_double.jpg	[12:28] usa [50:en] (제드) 하	0.0426
+resize_line_chatwin1000/data135_double11_double.jpg	[12:09] urasill (카이사) 시간버렸네	0.7460
+resize_line_chatwin1000/data135_double12_double.jpg	[11:51] 아주대박보검 (엘리스닙이 가고 있음	0.1384
+resize_line_chatwin1000/data135_double13_double.jpg	[14:11] [s1:46enie (제드 (하면 	0.0686
+resize_line_chatwin1000/data135_double14_double.jpg	[11: urasil (카이사 우디르가오는거랑	0.1920
+resize_line_chatwin1000/data135_double15_double.jpg	[12:18] urasil (카이사 니가   	0.7225
+resize_line_chatwin1000/data135_double16_double.jpg	[12:06] urasill (카이사): e 	0.9486
+resize_line_chatwin1000/data135_double17_double.jpg	' [12:21] urasill (카이사) 미니언쳐먹는거	0.1389
+resize_line_chatwin1000/data135_double18_double.jpg	[02:20] urasiw (카이사 시간어디 다가갖다버림	0.0445
+resize_line_chatwin1000/data135_double19_double.jpg	[11:19] urasill (카이사): 바틸쳐와서 ^	0.0210
+resize_line_chatwin1000/data135_double_double.jpg	[12:26] vrasiw (카이사) 뭐가다른데 쎅	0.0096
+resize_line_chatwin1000/data136_double2_double.jpg	[07:25] 이런리분을 나 (알리스타): 쟤엄다	0.1803
+resize_line_chatwin1000/data136_double3_double.jpg	[07:27] 이런리분을 나 (알리스라 세업율움	0.0802
+resize_line_chatwin1000/data136_double4_double.jpg	[07:24] 이련리븐을 나 리리스타 내가  	0.0396
+resize_line_chatwin1000/data136_double5_double.jpg	[07:28] 이런리분을 나알리스타 죽임 씝 	0.1723
+resize_line_chatwin1000/data136_double_double.jpg	| [03:50] 이런리분나 (알리스타님이 제어	0.2049
+resize_line_chatwin1000/data137_double2_double.jpg	(해이다 (텐들 나라하에 (어당): 이다 띠원표라	0.0000
+resize_line_chatwin1000/data137_double3_double.jpg	[71:3게: (성투 (카하에 (야터이: (해봐하 아니니가 빠러	0.0000
+resize_line_chatwin1000/data137_double4_double.jpg	[08:36] 이런리 분을분나 (알리스타) 사망보험금복	0.0002
+resize_line_chatwin1000/data137_double5_double.jpg	[07:10] 두루리 (나서소) 너명이니해봄 	0.2133
+resize_line_chatwin1000/data137_double_double.jpg	[아니이기 런리분을 나알리스타): 하딩어이 쎅	0.0042
+resize_line_chatwin1000/data138_double2_double.jpg	[03:09] aveng uono xi이즈리얼 (새기분 어중에	0.0005
+resize_line_chatwin1000/data138_double3_double.jpg	[12:56] maeng joon y (이즈리얼) 미니언 	0.1720
+resize_line_chatwin1000/data138_double4_double.jpg	[14: 0니야야): 이아니 (요네): 자려 죶	0.0007
+resize_line_chatwin1000/data138_double5_double.jpg	[12:25] maeng joon yi (이즈리얼 너는	0.4844
+resize_line_chatwin1000/data138_double6_double.jpg	[13:01 maeng jon y (이즈리얼 씨z=	0.0112
+resize_line_chatwin1000/data138_double7_double.jpg	[13:00] maeng jonn yi (이즈리얼 니가절못해 )	0.0226
+resize_line_chatwin1000/data138_double8_double.jpg	[12:00] u니ve monfruv (요네 정신좀 씝	0.0011
+resize_line_chatwin1000/data138_double9_double.jpg	[18:56] maenj joon y (이즈리얼 니가 잘하는게 뭐야	0.0536
+resize_line_chatwin1000/data138_double10_double.jpg	[12:44] maeng joon yi (이즈리얼 진짜	0.8216
+resize_line_chatwin1000/data138_double_double.jpg	[12:52] maeng joon yi (이즈리얼) 어휴 =	0.1658
+resize_line_chatwin1000/data139_double_double.jpg	(08:10] 청모드여 리산타레님이 위흥 신뢰를 보셰 쎅	0.0000
+resize_line_chatwin1000/data140_double2_double.jpg	[03:17] 초모드여 리산드라님이 위창 신회를 브닐 죶	0.0000
+resize_line_chatwin1000/data140_double3_double.jpg	[09:00] 정모드여 미미드 씨이 적이 적라갔다고 살릴	0.0000
+resize_line_chatwin1000/data140_double4_double.jpg	(애니비 청모드여 리산드라님이 젖이 사라짓다고 알	0.0019
+resize_line_chatwin1000/data140_double5_double.jpg	n08미미 창모도여 리산드라닐이 적이 사라갔다고 알칼	0.0029
+resize_line_chatwin1000/data140_double6_double.jpg	[01:42] 유리나르말이 사랑 아르 브다카 순간이동 졷	0.0000
+resize_line_chatwin1000/data140_double7_double.jpg	w계6야5 두의는 밑지다라 이이리업닐끼 적이 사카쳤다고	0.0000
+resize_line_chatwin1000/data140_double_double.jpg	[04:0] 우리나르맞이사 사르 브라음 순것이동 졷	0.0000
+resize_line_chatwin1000/data141_double2_double.jpg	[01:a therflet king 피와와님이 적을 시라스님게 트리	0.0008
+resize_line_chatwin1000/data141_double3_double.jpg	)00:e tre faek ming 띠요라님이 적이 사라라다 얼람 	0.0000
+resize_line_chatwin1000/data141_double4_double.jpg	[00:7] 받장 조이는이 적이 사라갔다고 알람 	0.0002
+resize_line_chatwin1000/data141_double5_double.jpg	valau] 먹수말을게 flam서a 의국 똑탄하이 여부부	0.0000
+resize_line_chatwin1000/data141_double6_double.jpg	쫒휴 휘 휘 죶                 	0.0095
+resize_line_chatwin1000/data141_double7_double.jpg	[1044 몽 환 짱 조이)모         	0.1149
+resize_line_chatwin1000/data141_double8_double.jpg	[01] * 환 짬 즈이 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락 가락	0.0000
+resize_line_chatwin1000/data141_double9_double.jpg	[1pa 몽 봔 짱 (즈이)부 부       	0.0142
+resize_line_chatwin1000/data141_double10_double.jpg	[10:12] 몽 환 짱 (즈이 픔쎅     	0.1035
+resize_line_chatwin1000/data141_double11_double.jpg	[10111 통 롼 짱 조이 제라스      	0.0238
+resize_line_chatwin1000/data141_double12_double.jpg	[19: 통 탄 짱 조이 이쓴부임       	0.0017
+resize_line_chatwin1000/data141_double_double.jpg	[22:45 되심 되털을지 카카이사님 지원 요철을 보는 	0.0000
+resize_line_chatwin1000/data143_double_double.jpg	[03:01] 지어의이 세세시구 구계기가 소그다 쳐먹려	0.0000
+resize_line_chatwin1000/data144_double2_double.jpg	[07:01] 전체이 미드노에 싀례쉬 (키밀 z니못하네 	0.0012
+resize_line_chatwin1000/data144_double3_double.jpg	[07:0]] (전체 리쌍 감성 (베인) 다 이방이다 	0.0491
+resize_line_chatwin1000/data144_double4_double.jpg	[06:57] 인터섹식 (키밀 님이 적이 사라것다고 알릴 	0.0607
+resize_line_chatwin1000/data144_double5_double.jpg	[07:48] 전체 인야석션 (카밀): 이간질 시키스)	0.0121
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/data144_double6_double.jpg	[07:31] 전체고 미드노애 (쓰레쉬 : 보봐도악	0.0052
+resize_line_chatwin1000/data144_double7_double.jpg	[0o: tvaco (니코 제라스 올리팟 = 	0.0175
+resize_line_chatwin1000/data144_double8_double.jpg	[07o5 이진게 쌍n: 갈a어 근예 너라서 (것다 `겼다 `겼다 `겼다 `겼다 `겼다 `겼다	0.0000
+resize_line_chatwin1000/data144_double9_double.jpg	[07:8] (전체 인터섹선 (카밀) 쓰레쉬 	0.1192
+resize_line_chatwin1000/data144_double10_double.jpg	[07: [37 똥구녀서은 (카럼)지 지트자 던섹다 던쎅	0.0000
+resize_line_chatwin1000/data144_double11_double.jpg	[07:40] 세전 iardo 니코 저라스 리좃좀 졷	0.0000
+resize_line_chatwin1000/data144_double12_double.jpg	[07:32] (전체 인터섹선 (카일): 0]	0.0860
+resize_line_chatwin1000/data144_double13_double.jpg	젗08이 전체 tako 니코분 (케 카카카키키 클상	0.0000
+resize_line_chatwin1000/data144_double14_double.jpg	[07:14] 전체 인데섹선 (카밀) >   	0.0056
+resize_line_chatwin1000/data144_double15_double.jpg	[07:57] (전체 인터섹션 (카밀):   	0.6852
+resize_line_chatwin1000/data144_double16_double.jpg	[07:20] (체 미드노에 쓰레쉬이 니가 제라스 욕코것지	0.0241
+resize_line_chatwin1000/data144_double17_double.jpg	[07:56] (전체 인터섹션 (카밀): 찌 	0.1465
+resize_line_chatwin1000/data144_double18_double.jpg	[07:0u] 전체 tanda 니코 쓰레쉬 그렇게 이기고살냐	0.0001
+resize_line_chatwin1000/data144_double19_double.jpg	[07:33] 건전체 인터섹션 (카밀): 4계	0.0378
+resize_line_chatwin1000/data144_double20_double.jpg	[04: 전체 안터석선 (카밀 버러지가 눗  	0.0211
+resize_line_chatwin1000/data144_double_double.jpg	씨 니씨끼 더니                 	0.0001
+resize_line_chatwin1000/data145_double2_double.jpg	[0043적 발 제라스 님이 사라갔다고 알림 	0.0143
+resize_line_chatwin1000/data145_double3_double.jpg	[01:01] 인터섹션 (카밀) 노노     	0.5086
+resize_line_chatwin1000/data145_double4_double.jpg	[11:00] 인터섹션 (카밀) 티모     	0.4781
+resize_line_chatwin1000/data145_double5_double.jpg	[01:8] tamo (니코 핑쳐찍어     	0.2041
+resize_line_chatwin1000/data145_double6_double.jpg	(0005 적당히 하하세 (이즈리얼 ;    	0.0388
+resize_line_chatwin1000/data145_double7_double.jpg	[0106] taxoa 니쿄 왜        	0.3418
+resize_line_chatwin1000/data145_double8_double.jpg	[00:54] 인터섹선 (카밀) 헤카립님   	0.5858
+resize_line_chatwin1000/data145_double9_double.jpg	[ [07: 인터석년 (카밀) 합베인 카운터 린지 아심이	0.0063
+resize_line_chatwin1000/data145_double10_double.jpg	[01:09] 인터석년 (카골) 초반에만 졷 많이 의주설	0.0017
+resize_line_chatwin1000/data145_double_double.jpg	[01:08] 인터섹션 (카밀): 바로 갱임 	0.2079
+resize_line_chatwin1000/data146_double2_double.jpg	[20:30] 쇼체고이 e44fu (잭스 모든활이여는	0.0001
+resize_line_chatwin1000/data146_double3_double.jpg	[49:0신 츈 (카타리나 그들스터 생죤 쎅 	0.0014
+resize_line_chatwin1000/data146_double4_double.jpg	[20:1신 춘 (카타리냐) 피들스틱 내생존 죳	0.0051
+resize_line_chatwin1000/data146_double5_double.jpg	[20:56] 전제 신 춘 (카타리나 안막을게	0.1147
+resize_line_chatwin1000/data146_double6_double.jpg	[20:07] (카시 [트이다 는사 (타트록스) 정들	0.0002
+resize_line_chatwin1000/data146_double7_double.jpg	[20:49] 전치이산 (카하리냐 그냥 정글이	0.0075
+resize_line_chatwin1000/data146_double8_double.jpg	[20:1신 춘 (카타리나) 피들스틱 언생존 죶	0.0209
+resize_line_chatwin1000/data146_double9_double.jpg	[15:5 ]체에 춘 (카티리나) 서랜 되안봤8	0.0003
+resize_line_chatwin1000/data146_double10_double.jpg	( [04: [] 사현드든 당나이 역겁네 르 	0.0001
+resize_line_chatwin1000/data146_double11_double.jpg	[20: 신 춘 (카티나):피피피 언생존 졷 	0.0002
+resize_line_chatwin1000/data146_double12_double.jpg	[29:17] [1끼 이wef eavfiv (섹식 나만나면 쎅	0.0000
+resize_line_chatwin1000/data146_double13_double.jpg	[00:00] 젓3이 춘 (카타리나) 서런란줄알았는대	0.0002
+resize_line_chatwin1000/data146_double14_double.jpg	[40:00] 미처 쳐복이다 씨싸랄 (트록트스	0.0000
+resize_line_chatwin1000/data146_double15_double.jpg	[09: (조제 신 춘 (카타리나): 밀어주설 씺	0.0001
+resize_line_chatwin1000/data146_double16_double.jpg	선판 해같 니데                 	0.0836
+resize_line_chatwin1000/data146_double17_double.jpg	[ 004] [3처 mite [사끼 (    	0.0000
+resize_line_chatwin1000/data146_double_double.jpg	[20:6신 춘 (카타리나) 피들스틱 생존 죳	0.0391
+resize_line_chatwin1000/data147_double2_double.jpg	[07:36] 적 제 정라스님이 적이 사라겠다고 알릴	0.0317
+resize_line_chatwin1000/data147_double3_double.jpg	[07:00] 제꼬삼 (판테온): 뭐하냐   	0.1144
+resize_line_chatwin1000/data147_double4_double.jpg	[07:88] 제꼬삼 (판테온): ,     	0.2722
+resize_line_chatwin1000/data147_double5_double.jpg	[07:29] 제꼬삼 (판테온 인더      	0.1879
+resize_line_chatwin1000/data147_double6_double.jpg	( [01:0이 니들트 (소려얼쇠 차타스할매 위안부 쇅	0.0000
+resize_line_chatwin1000/data147_double7_double.jpg	[07:27] 제꼬살 (판테온): 이아니   	0.1818
+resize_line_chatwin1000/data147_double8_double.jpg	(07:55] 미틀 괴물쥐 (이즈리얼): 처벌레일 	0.1137
+resize_line_chatwin1000/data147_double_double.jpg	( [02:4 적 발 개제라스님이 적이 사라겠다고 알릴	0.0870
+resize_line_chatwin1000/data148_double2_double.jpg	[06:23] [전체 인텨석선 (카밀) 너 접어	0.0419
+resize_line_chatwin1000/data148_double3_double.jpg	(06116] (전체 인터섹선 (카밀): 끈데 씝	0.0039
+resize_line_chatwin1000/data148_double4_double.jpg	[06:16] (전체 인터섹션 (카밀): 베인아 너	0.8151
+resize_line_chatwin1000/data148_double5_double.jpg	[06:17] 전체 인터섹션 (카밀) 늦   	0.0674
+resize_line_chatwin1000/data148_double6_double.jpg	[06:14] 전체 인터섹션 (카밀): 개못한다	0.5547
+resize_line_chatwin1000/data148_double7_double.jpg	[04:27] 전체 인터섹신 (카밀 난카밀 첨일 쫃	0.1280
+resize_line_chatwin1000/data148_double8_double.jpg	[04:11] 전제 인터섹스 카밀 진짜나말고 ~ 사람이면	0.0038
+resize_line_chatwin1000/data148_double9_double.jpg	너 터짐 야 보                 	0.0429
+resize_line_chatwin1000/data148_double10_double.jpg	[0:44] c3 인미석스 (카밀 나가가 김 여이하는데 쓉 (어이하는	0.0000
+resize_line_chatwin1000/data148_double11_double.jpg	[05:51] 인터섹선 (카밀) 개망함 `  	0.0850
+resize_line_chatwin1000/data148_double12_double.jpg	[08:32] (전체 리쌍 감성 (베인)   	0.3343
+resize_line_chatwin1000/data148_double13_double.jpg	n                        	0.5205
+resize_line_chatwin1000/data148_double14_double.jpg	[04:56] (전체 인터석션 (카밀): 한단쯤 져주난 졷	0.0024
+resize_line_chatwin1000/data148_double15_double.jpg	[04:49] 인터섹선 (카밀) 졌다 ,   	0.0941
+resize_line_chatwin1000/data148_double16_double.jpg	[06113 (전체 인터섹선 (카밀도 와   	0.0564
+resize_line_chatwin1000/data148_double17_double.jpg	[06:51] 인터섹션 (카밀) 좀 와주셈  	0.2138
+resize_line_chatwin1000/data148_double18_double.jpg	[04:58] taxoo (니코 저라스 올리픗	0.1178
+resize_line_chatwin1000/data148_double_double.jpg	[05:1] 인터섹선 (카일는 적이 적하갔다고 알림	0.0072
+resize_line_chatwin1000/data149_double2_double.jpg	[10:00] 소세 서기덜 이지론 (신드냐 그래 알	0.0193
+resize_line_chatwin1000/data149_double3_double.jpg	[03:06] 쓉세 세기밀 이지빱 (식다 (티야 씝	0.0000
+resize_line_chatwin1000/data149_double4_double.jpg	[07:3] 션세 야 스요라카 (아비 벗었었다 씝	0.0000
+resize_line_chatwin1000/data149_double5_double.jpg	[07:04] 쓉세세 셰기딸 이지빱 신드라 그립다 죶	0.0000
+resize_line_chatwin1000/data149_double6_double.jpg	[04:00] 세기발 세기발 이지빱 (신터  	0.0066
+resize_line_chatwin1000/data149_double7_double.jpg	[10:00] 얘세 아 스요려카 (아) 떠드쉽안다 쎅	0.0001
+resize_line_chatwin1000/data149_double8_double.jpg	[m5: (년세이 스오빠카 (아) 마이옥설 카픔플쎅 쎅	0.0000
+resize_line_chatwin1000/data149_double9_double.jpg	[0t:07] 쉽1 세기말 이지딘 신드라 너도 크려	0.0002
+resize_line_chatwin1000/data149_double10_double.jpg	[03:00] i세세 세기말 이지는 신드라 승폐를 넘	0.0008
+resize_line_chatwin1000/data149_double11_double.jpg	[09:01] 년식연니나스야 (니냐이이 음살스스):	0.0000
+resize_line_chatwin1000/data149_double12_double.jpg	[04:00] 세세 세기말 이지본 신드냐 인정말	0.0065
+resize_line_chatwin1000/data149_double13_double.jpg	[00:00] (어 나는스나): (마쓰이이 병크덕요 연변에	0.0000
+resize_line_chatwin1000/data149_double14_double.jpg	(애야 신시세 세기덜 이지년 신드이) 좃은슴부년다 `	0.0000
+resize_line_chatwin1000/data149_double15_double.jpg	[10:42] 전세이 야오 카아라카 (아리): 다리하다 쎅	0.0001
+resize_line_chatwin1000/data149_double16_double.jpg	[06:57] 야 스오라카 (아런) 에미 언제 죽오엇음이	0.0075
+resize_line_chatwin1000/data149_double17_double.jpg	[08:47] 아 스오라카 (아리) 마이님  	0.0998
+resize_line_chatwin1000/data149_double18_double.jpg	[07:12] (는 씨는년니): 이이녀보이 욕발 백반법에의	0.0000
+resize_line_chatwin1000/data149_double_double.jpg	[06:52] 천세 야 싀오나카 (아리): 복말이폰아	0.0007
+resize_line_chatwin1000/data150_double2_double.jpg	[14: 적 발 (제라스 님 궤스트 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료 완료	0.1694
+resize_line_chatwin1000/data150_double3_double.jpg	( [55: 엄서엑서 (종랑크 넘이 사유씨알리스해 저독 	0.0000
+resize_line_chatwin1000/data150_double4_double.jpg	[15:31] 엄서업서 (갱플랭크님이 가고 있음 	0.1049
+resize_line_chatwin1000/data150_double5_double.jpg	구입 했습 다                  	0.3442
+resize_line_chatwin1000/data150_double6_double.jpg	[17: 재밌게 임합시다 (루시안 작     	0.1080
+resize_line_chatwin1000/data150_double7_double.jpg	(17:21] 개있계입합시디 (루시안 제라스 정신범았):	0.0030
+resize_line_chatwin1000/data150_double8_double.jpg	( [11:77] 싑업시 (게줄보넘 적이 사라코다고 얼림	0.0000
+resize_line_chatwin1000/data150_double9_double.jpg	[17:22] 개민계입을시 (루시안) 이거 계속해야트냐 죳	0.0001
+resize_line_chatwin1000/data150_double_double.jpg	[16:30 업서업서 (갱플랭크님이 가고 있음 졷	0.0174
+resize_line_chatwin1000/data151_double2_double.jpg	[09: 0]체 합라이너 오주이 (칼리스하) 이기셈	0.0030
+resize_line_chatwin1000/data151_double3_double.jpg	[04:40] 전체i badodod (리신 나 도안넘 ` <안넘 	0.0003
+resize_line_chatwin1000/data151_double4_double.jpg	[24:50] 정체이 합려이너 오주아 (칼리스하) 저안럴	0.0140
+resize_line_chatwin1000/data151_double5_double.jpg	^ [2555] (전체 (라이너 오주아 (칼리스타): [	0.0040
+resize_line_chatwin1000/data151_double6_double.jpg	[24:0 ]져이 badodod (리 신스 데스 할거니까 쎅	0.0014
+resize_line_chatwin1000/data151_double7_double.jpg	[04:00] 전체 peadodow (리 제락스 핑한번 찍을 마다	0.0001
+resize_line_chatwin1000/data151_double8_double.jpg	[0444 부부부들들로): 브런들 다신아 이지지 졷회고)	0.0000
+resize_line_chatwin1000/data151_double9_double.jpg	^ [28:57] 전전체 badodod (리 신): 이기셀 씝	0.0038
+resize_line_chatwin1000/data151_double_double.jpg	[33:44] 간고순 (하이머딩기 넘이 (신끌 어드립니다 털	0.0021
+resize_line_chatwin1000/data152_double2_double.jpg	[01:40전 전제합하이 오주아 (럽나스) 이겨주꼴솔 쎅	0.0000
+resize_line_chatwin1000/data152_double3_double.jpg	4s44 (전제 보커살다 알알려스): 리신 대묵복을 (	0.0000
+resize_line_chatwin1000/data152_double4_double.jpg	젗그고 치 ?                  	0.0634
+resize_line_chatwin1000/data152_double5_double.jpg	^0441 젓제병년나 오주노랄스스): 자저 연기 개에너하다	0.0000
+resize_line_chatwin1000/data152_double6_double.jpg	[44:0]] 전집게 탈라야네 오주아 (칼려스탄): 그냥	0.0000
+resize_line_chatwin1000/data152_double7_double.jpg	[44:00] 전체이 합하이네 오주아 오칼리스하 게일 졷	0.0014
+resize_line_chatwin1000/data152_double8_double.jpg	(0441 전체협것이 오다아랄스): 씨 차치면현 죳	0.0000
+resize_line_chatwin1000/data152_double9_double.jpg	[a44u] 정지 핵한이네 오주시 섹럽려스면 악l같척버수 들	0.0000
+resize_line_chatwin1000/data152_double10_double.jpg	[04:00] 전기들 할라이너 오주사 칼레스스): 나도안하니까	0.0000
+resize_line_chatwin1000/data152_double11_double.jpg	[47:0 전씨보 피같의 (씝섹스) 아니니 뿐자 이끼	0.0000
+resize_line_chatwin1000/data152_double12_double.jpg	[24:25] 전전체 badodod (리 신) $	0.0347
+resize_line_chatwin1000/data152_double_double.jpg	[04:40] 전체 gradodo (럿 신나 하화하든 듣	0.0000
+resize_line_chatwin1000/data153_double2_double.jpg	[37:03] 키피고만 차격어 부추): 계입에서 존심부리	0.0001
+resize_line_chatwin1000/data153_double3_double.jpg	[37:56] writi 미식포쌈 정글 시끗 싸독지체	0.0000
+resize_line_chatwin1000/data153_double4_double.jpg	뇌절하면서 씝                  	0.4380
+resize_line_chatwin1000/data153_double5_double.jpg	(애6633 키피고만 쳐격에:): 끝씹토없는 들들 (	0.0000
+resize_line_chatwin1000/data153_double6_double.jpg	[34:40] 진치 (되고만 져리에: 자이라라 취풀하주서요	0.0000
+resize_line_chatwin1000/data153_double7_double.jpg	[37:18] wrwirilii (미스 포츈) 드서련해	0.0053
+resize_line_chatwin1000/data153_double8_double.jpg	[08:52] 커피 그만켜먹어 (루시안 어휴 	0.0589
+resize_line_chatwin1000/data153_double9_double.jpg	[37:59] wrwilliw (미식 포츈 (철할까며) 니	0.0004
+resize_line_chatwin1000/data153_double10_double.jpg	[36:1 카피파만 카죽에 (루시안) 자이라뉴탄 문요 졷	0.0000
+resize_line_chatwin1000/data153_double_double.jpg	[34:46] (전체 (커피민치먹어 (루시안): alln 	0.0290
+resize_line_chatwin1000/data155_double2_double.jpg	[17:88] 커피고만차먹어 (루시안): 지면기분족은):	0.0355
+resize_line_chatwin1000/data155_double3_double.jpg	니꾸은 환순 적좀 r놈 (낙루 <속라 ^   	0.0000
+resize_line_chatwin1000/data155_double4_double.jpg	[17:04] wiwliwli (미스 포츈 서련 치먼가 쎅	0.0098
+resize_line_chatwin1000/data155_double5_double.jpg	[17:10] 키피그만쳐먹어 (루시안): 디들개끼	0.2151
+resize_line_chatwin1000/data155_double6_double.jpg	[17:23] 꽃길만갑자김세정 (나르 그냥  	0.1618
+resize_line_chatwin1000/data155_double7_double.jpg	씝 [17: 8관을 첫관처럼 (녹턴) 미포 없어	0.0420
+resize_line_chatwin1000/data155_double8_double.jpg	,17:0]] 꼴길면자급세 정정 나르 쉽청서 때피블는)	0.0000
+resize_line_chatwin1000/data155_double9_double.jpg	[16:57] 키고그한한할하 (쑤안): 스년 님도 그원장장요요	0.0000
+resize_line_chatwin1000/data155_double10_double.jpg	[12:2 iwwili (미스 퐈츈 녹된 자지려가지 정글먹는데	0.0002
+resize_line_chatwin1000/data155_double11_double.jpg	[16:00] 대운 헛판차럼 녹e 자자하카저저저 하동을 하는이	0.0003
+resize_line_chatwin1000/data155_double12_double.jpg	[17:13] 카피그만처먹어 (루시안) 그냥하면들걸	0.1187
+resize_line_chatwin1000/data155_double13_double.jpg	[17:11] 커피그만쳐먹어 (루시안 진짜  	0.0344
+resize_line_chatwin1000/data155_double14_double.jpg	(17:44] 애판을 헛만처럼 (녹턴 그양 나가도록 하자 	0.0086
+resize_line_chatwin1000/data155_double15_double.jpg	[17:24] 꽃길만검자김세 (나르) 해   	0.2517
+resize_line_chatwin1000/data155_double16_double.jpg	[17:21] 꽃길 검자김세정 (나르): 아 	0.0962
+resize_line_chatwin1000/data155_double17_double.jpg	[17:16] 꽃길만검자김세정 (나르): 아 	0.0303
+resize_line_chatwin1000/data155_double_double.jpg	[17:11] 꽃길만검자김세정 (나르): 힘내렴내	0.0103
+resize_line_chatwin1000/data156_double2_double.jpg	, [21:37] [03: uiterator syvas (피오라 터	0.0001
+resize_line_chatwin1000/data156_double3_double.jpg	( [00:3]] [31 오네 못가대도 (트위스티드	0.0002
+resize_line_chatwin1000/data156_double4_double.jpg	[20:38] 쇼치 loverator syvas (피오라) 루야	0.0085
+resize_line_chatwin1000/data156_double5_double.jpg	[00:11] 아군이 찬성 4포 반대 힘포로 	0.0210
+resize_line_chatwin1000/data156_double6_double.jpg	[20:18] 존 나마너우저제이 게임을 종로해습니다	0.0065
+resize_line_chatwin1000/data156_double7_double.jpg	[2019 ablewanse (샤코): 씨 눈팏 졷	0.0002
+resize_line_chatwin1000/data156_double8_double.jpg	[20:17] u체 lurerator syas (피오래서 *	0.0031
+resize_line_chatwin1000/data156_double9_double.jpg	[20:3 avewanser (샤쿄 너무못한다 씝	0.0339
+resize_line_chatwin1000/data156_double10_double.jpg	[20:38] [3제 livereator syas 피요리 싀	0.0001
+resize_line_chatwin1000/data156_double11_double.jpg	4-pha 니씨): 싸 h-h-9       	0.0000
+resize_line_chatwin1000/data156_double12_double.jpg	[20:15] avewanser 씨쿄 진짜 씝	0.0301
+resize_line_chatwin1000/data156_double13_double.jpg	( [21: 0] farnet mef 이즈리얼 시	0.0521
+resize_line_chatwin1000/data156_double14_double.jpg	[20:10] 젓체 요세 툭가대회 (탁의스티드 페이트):	0.0002
+resize_line_chatwin1000/data156_double15_double.jpg	[40:7] 존 나마너유저 (녹턴 (부모 쎅 	0.0086
+resize_line_chatwin1000/data156_double16_double.jpg	[20:14] 차두라리스크 (진 응 금느   	0.7260
+resize_line_chatwin1000/data156_double17_double.jpg	[20:14] aviewarser (샤쿄 녹턴 	0.6704
+resize_line_chatwin1000/data156_double18_double.jpg	[20:13] avewarver (샤쿄 키  	0.2388
+resize_line_chatwin1000/data156_double19_double.jpg	, [04:10] 전체 [1v:4e] 카직스 +	0.0001
+resize_line_chatwin1000/data156_double20_double.jpg	( [20:16] avoewanser (샤코) 너무하다	0.0470
+resize_line_chatwin1000/data156_double21_double.jpg	[09:00] (쳐체 la버e): was (피으라 싀	0.0003
+resize_line_chatwin1000/data156_double22_double.jpg	[20:12] 존 나매너우저 녹턴 한     	0.0329
+resize_line_chatwin1000/data156_double_double.jpg	[20:38] [3 :5ereato les (피에게 쿠	0.0002
+resize_line_chatwin1000/data157_double2_double.jpg	구입 했습니다                  	0.9783
+resize_line_chatwin1000/data157_double3_double.jpg	[18:38] wwwilli (미스 포츈 궁 쇅리	0.0019
+resize_line_chatwin1000/data157_double4_double.jpg	[16:41] ilwililili (미스 포츈 일부러	0.0197
+resize_line_chatwin1000/data157_double5_double.jpg	[14:56] wiliwilli (미스 포츈 시야 봤혀 좃는데	0.0014
+resize_line_chatwin1000/data157_double6_double.jpg	[16:48] wiwiwili (미스 포츈 안쓰네	0.4186
+resize_line_chatwin1000/data157_double_double.jpg	04이어 겨피고만민의 문귀인 넘이 정치하는 시인이이서 지	0.0000
+resize_line_chatwin1000/data158_double2_double.jpg	[42:20] 선 요 입일레스): 맘관부터 연전연송허	0.0310
+resize_line_chatwin1000/data158_double3_double.jpg	[ [21:16] 선 요 (일레스스) 하이교 쎅	0.0057
+resize_line_chatwin1000/data158_double4_double.jpg	[21:47] 아조와 (다리우스 (키가 뒤에잇냐	0.1490
+resize_line_chatwin1000/data158_double5_double.jpg	[22:00 아즈의 다리우스 정글시좃 진짜 려게표네	0.0035
+resize_line_chatwin1000/data158_double6_double.jpg	[21:32] 선 요 (사일러스): 너무텀들다 정	0.1563
+resize_line_chatwin1000/data158_double7_double.jpg	[44:11까 까직와 다짓우스 제라스 하픗 끼	0.0008
+resize_line_chatwin1000/data158_double8_double.jpg	[44: 1체 찰가란 말가 이인        	0.0001
+resize_line_chatwin1000/data158_double9_double.jpg	[22:44 아즈와 (다리우스 제라스는 리좃 졷 ;	0.0057
+resize_line_chatwin1000/data158_double10_double.jpg	[42:0이 아죄와 다리우식): 아 초만 더 살았부으면	0.0021
+resize_line_chatwin1000/data158_double11_double.jpg	(2441 전체선산 외 사일러스):      	0.0167
+resize_line_chatwin1000/data158_double12_double.jpg	[21:15 선 외 사일려스 바로반당     	0.0244
+resize_line_chatwin1000/data158_double_double.jpg	[표고 인죄 시질요 노사e지살         	0.0000
+resize_line_chatwin1000/data159_double2_double.jpg	씝사중지의 대녀를 이제 투시합니다 이이시를입니): 죳	0.0001
+resize_line_chatwin1000/data159_double3_double.jpg	[29:37] 기도번니야지 미소 포찮님이 적이 사라하고 알림	0.0017
+resize_line_chatwin1000/data159_double4_double.jpg	씨 인은 전신 년는닌 신다면는 죳       	0.0000
+resize_line_chatwin1000/data159_double5_double.jpg	' ppra] 이거시 룰입니까 근테은 아뭐양 	0.0099
+resize_line_chatwin1000/data159_double6_double.jpg	[0f:7기기 도 한한니여기 미스스 도럼님이 적이 사라하다고 일럼다다 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일럼다고 일	0.0000
+resize_line_chatwin1000/data159_double7_double.jpg	[096 이거 시를입니자 문테은 와 키일 그례벌이냐	0.0001
+resize_line_chatwin1000/data159_double8_double.jpg	[035이이이 (시씨니끼 단테은 윤윅시 제라스우 뒤잠	0.0000
+resize_line_chatwin1000/data159_double9_double.jpg	이제 신희클 무시합니다 (이시치입니까):   	0.0152
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/data159_double_double.jpg	[29:7] 이거출입니까 논테은 선물인    	0.0158
+resize_line_chatwin1000/data160_double2_double.jpg	[15:01] [10:11:14] 씨드 첩지 못했	0.0001
+resize_line_chatwin1000/data160_double3_double.jpg	[12:0 ] 계체이 [01:14] [제드 배꺼	0.0001
+resize_line_chatwin1000/data160_double4_double.jpg	[11:00] [시이야 (체녀): 죶와중에 뭣뺏은	0.0000
+resize_line_chatwin1000/data160_double5_double.jpg	[13:00] 미전체끼 moonright shedow w재드 햐이 쎅	0.0001
+resize_line_chatwin1000/data160_double6_double.jpg	[12:43] 정받으면거리 (이렐리아 님이 hide	0.1454
+resize_line_chatwin1000/data160_double7_double.jpg	` [02:07] 강중l 강환으금리 (이럽리아 통은것점 본	0.0000
+resize_line_chatwin1000/data160_double8_double.jpg	[13:39] f어버: (케인 님이 가고 있음 ^	0.0007
+resize_line_chatwin1000/data160_double9_double.jpg	[19:4 ] 체체 한이이이 (앙일러스니 졷 	0.0000
+resize_line_chatwin1000/data160_double10_double.jpg	011:06] (44 [키인 님이 전렇위 남을 박죄것습니다	0.0000
+resize_line_chatwin1000/data160_double11_double.jpg	[12:0 ]치키 t01:16: 여] 시제드 달아 	0.0004
+resize_line_chatwin1000/data160_double_double.jpg	[12:5 l1체 정받으면커 리리럽 (이렐리아) 아이언	0.0001
+resize_line_chatwin1000/data161_double2_double.jpg	(계이 취발지 쒸익악만 스년 없로이스     	0.0000
+resize_line_chatwin1000/data161_double3_double.jpg	054 야디보 계입 ]             	0.0032
+resize_line_chatwin1000/data161_double_double.jpg	[55: 밭 발 시란니님이 적 와드를 탁   	0.0005
+resize_line_chatwin1000/data162_double2_double.jpg	(33:01] !지고우 (에코) men럼련  	0.0222
+resize_line_chatwin1000/data162_double3_double.jpg	[00:21] !지고우 (에코 소라카가 쎅  	0.0349
+resize_line_chatwin1000/data162_double4_double.jpg	[31:6 omfiehw 이케이틀린)나 널주던데	0.0132
+resize_line_chatwin1000/data162_double5_double.jpg	[31:17] 뼈지교우 에로)난 안품     	0.0087
+resize_line_chatwin1000/data162_double6_double.jpg	[ [35:41] 삐지고우 에고 털만 줘도이김	0.0051
+resize_line_chatwin1000/data162_double7_double.jpg	13059] 뼈지고우 에코 눈         	0.0874
+resize_line_chatwin1000/data162_double8_double.jpg	[33:3] 한남 이규로 (나서스 먼 카이팅임	0.2532
+resize_line_chatwin1000/data162_double_double.jpg	구입 습니다                   	0.9289
+resize_line_chatwin1000/data163_double2_double.jpg	구입 했습니다                  	0.2428
+resize_line_chatwin1000/data163_double3_double.jpg	[04:01] (시1 (철대 저제키야 (시요페아): 농승고맙다	0.0000
+resize_line_chatwin1000/data163_double4_double.jpg	사용자의 대봐를 이제 무시합니니 욕절대안슬거야	0.0105
+resize_line_chatwin1000/data163_double5_double.jpg	[13:20] (3이 무럴지안슬 저슬지): 신자 소자 소라카는	0.0000
+resize_line_chatwin1000/data163_double6_double.jpg	goer 이 기 로               	0.0065
+resize_line_chatwin1000/data163_double7_double.jpg	[10: 카카오뱅크점 요르 경 오픈하자    	0.0137
+resize_line_chatwin1000/data163_double_double.jpg	이제 감정표현들 무시합니다 욕럴매안들거이 쓉 	0.0127
+resize_line_chatwin1000/data164_double2_double.jpg	[22:11] 시기철신구고): (이사납이 woxxa 이초럽엘님님	0.0000
+resize_line_chatwin1000/data164_double3_double.jpg	[09:1 ]끼까 니딸이 세체서 전폐의 포을 파피	0.0001
+resize_line_chatwin1000/data164_double4_double.jpg	( [20:56] 전전체 geviaruum (보틸러스): 사끗차이 씝	0.0001
+resize_line_chatwin1000/data164_double5_double.jpg	[25:5] 파미 피피으라게 경지르 리롯이나 하고끝어자	0.0002
+resize_line_chatwin1000/data164_double6_double.jpg	[20:32 작 다 (피오라시아 스트레스 받아 쎅	0.0268
+resize_line_chatwin1000/data164_double7_double.jpg	[21:11 다 피피라 아구지 졷       	0.2297
+resize_line_chatwin1000/data164_double8_double.jpg	[16:56] 곤 성 (요네): 미니언좀주실 어대여 쎅	0.0007
+resize_line_chatwin1000/data164_double9_double.jpg	[19:16] koixa 이즈리얼 연패보고 맛지럴걸	0.0853
+resize_line_chatwin1000/data164_double10_double.jpg	[21:00] wxia 이즈리얼 차하드리고  	0.0201
+resize_line_chatwin1000/data164_double11_double.jpg	[21:07] 다 다 피오라 년        	0.2585
+resize_line_chatwin1000/data164_double12_double.jpg	[16: ykia 이즈려얼 연패하는아는 이수가있는거입	0.0182
+resize_line_chatwin1000/data164_double13_double.jpg	[21:02] 다피오라 닫아봐 치 니     	0.0243
+resize_line_chatwin1000/data164_double_double.jpg	[20:58] kowa 이조리얼 시라스 연대이어나가는	0.0018
+resize_line_chatwin1000/data165_double2_double.jpg	[0960 철까지를 잡뇬는다 이직리얼날뇬이 가고 있키	0.0000
+resize_line_chatwin1000/data165_double3_double.jpg	[10:11 철가지롤안집는다 (이즈리얼) 제라스 생죤	0.0038
+resize_line_chatwin1000/data165_double4_double.jpg	000:1 떨까지를안집는다 (이즈려얼 제라스 생픈	0.0017
+resize_line_chatwin1000/data165_double5_double.jpg	[00:31 설까지롤안잡는다 (이즈레알 시리스 생죤	0.0002
+resize_line_chatwin1000/data165_double6_double.jpg	[10:21] 설자지 물안접는다 (이즈리얼 v- [55 쎅	0.0001
+resize_line_chatwin1000/data165_double7_double.jpg	`계 감정표현을 무시합니다 (굴먹은 죶    	0.0067
+resize_line_chatwin1000/data165_double8_double.jpg	( [00:00] 설자지를안접는다 이이즈리얼) 저라스 생죤	0.0003
+resize_line_chatwin1000/data165_double9_double.jpg	` 이제 신희를 무시합니다 (빨까지들 집 는집는다 쎅	0.0000
+resize_line_chatwin1000/data165_double10_double.jpg	이제 신회를 무시합니다 꿀먹음)        	0.3009
+resize_line_chatwin1000/data165_double11_double.jpg	쇅 예제 감정포현을 무시합니다 (벨까지들 (안적는다	0.0003
+resize_line_chatwin1000/data165_double_double.jpg	[00:19 철자지를안 집는다 (이즈려얼 솔제라스 8 쏜픈	0.0000
+resize_line_chatwin1000/data166_double2_double.jpg	[13:55] 긴가민가하면서 (트위치     	0.8970
+resize_line_chatwin1000/data166_double3_double.jpg	[13: (전체 동두천 원딜대도 (이즈리얼 니네	0.0455
+resize_line_chatwin1000/data166_double4_double.jpg	[14:12] 동두천 원딜대표 (이즈리얼): 해드럴	0.0810
+resize_line_chatwin1000/data166_double5_double.jpg	[04:10] 전체 동두헌 원답대도 (이즈리얼 킬초일	0.0088
+resize_line_chatwin1000/data166_double6_double.jpg	[14:11] 동두천 뭔딜대포 (이즈리얼 한번하면	0.0162
+resize_line_chatwin1000/data166_double7_double.jpg	[16:57] 전제체 동두췬 원딜대도 (이즈리얼 녹툰 	0.0010
+resize_line_chatwin1000/data166_double8_double.jpg	[14:00] 전체 동두 원일대드 (이즈리얼)카카카정	0.0085
+resize_line_chatwin1000/data166_double9_double.jpg	[03:00] 개씨헌놈 사일러스 와리신 개질만다진자 쎅	0.0002
+resize_line_chatwin1000/data166_double10_double.jpg	[14:10] 동두변 원일대표 (이즈리얼 잘못했어	0.0204
+resize_line_chatwin1000/data166_double11_double.jpg	[14:22 오태식 (레혁혼님이 적이 사라갔다고 알릴 졷	0.0013
+resize_line_chatwin1000/data166_double12_double.jpg	[14:14] 동두천 원일대포 (이즈리얼 마지막	0.1395
+resize_line_chatwin1000/data166_double13_double.jpg	[14:18] 동두천 원딜대표 (이즈리얼): 븍 ~	0.0022
+resize_line_chatwin1000/data166_double14_double.jpg	[14:07] 동두췬 뭔밀대표 (이즈리얼 씨저라스쎄 	0.0048
+resize_line_chatwin1000/data166_double15_double.jpg	[14:16] ufxis (녹턴) 찌질하다 참	0.0201
+resize_line_chatwin1000/data166_double16_double.jpg	[13:37] 오태식이 (레넥톤): 나이따 ^	0.3330
+resize_line_chatwin1000/data166_double17_double.jpg	[14:17] ufkif (녹턴 $ $    	0.0145
+resize_line_chatwin1000/data166_double18_double.jpg	[14:17] 동두천 원딜대표 (이즈리얼 기회임	0.0957
+resize_line_chatwin1000/data166_double_double.jpg	[14:05] 오태식 (레넥톤님이 가고 있을 쎅	0.0131
+resize_line_chatwin1000/data167_double2_double.jpg	[309 돌두천 뭔밀대포 (이적리얼 키    	0.0570
+resize_line_chatwin1000/data167_double3_double.jpg	[32:55] 동두천 원밑대도 (이즈리얼 제라스	0.0313
+resize_line_chatwin1000/data167_double4_double.jpg	[32:44] 오태식 (레넥톤): 꽁송이라니간	0.0762
+resize_line_chatwin1000/data167_double5_double.jpg	(32:44 오태식 (레넥톤) 이렐또으면 씝 	0.0031
+resize_line_chatwin1000/data167_double6_double.jpg	[02:26] 오태식이 (레넥톤) 강미드모여서	0.3397
+resize_line_chatwin1000/data167_double7_double.jpg	[32:9] uxsiit 녹복턴) 생각없는 미든데 ^	0.0075
+resize_line_chatwin1000/data167_double8_double.jpg	[34: ifkit 녹턴 서런 졷 쳐라 쎅라 	0.0197
+resize_line_chatwin1000/data167_double9_double.jpg	(3245 uvkis (녹턴) 속좁이 원밀에 	0.0985
+resize_line_chatwin1000/data167_double10_double.jpg	[32:5 동두천 뭔딜대표 (이즈리얼): 이것는뎅 	0.0040
+resize_line_chatwin1000/data167_double11_double.jpg	눈 ) 씨뉴 :                 	0.0001
+resize_line_chatwin1000/data167_double12_double.jpg	[32:56] 동두천 원맡대도 (이즈리얼): 머리봐았으면	0.0245
+resize_line_chatwin1000/data167_double13_double.jpg	[32:40] 오태식크 (레넥톤): 왜쳐 씝 	0.1272
+resize_line_chatwin1000/data167_double14_double.jpg	(3233] 오태식이 (레넥톤): 광콩송인데 졷	0.0020
+resize_line_chatwin1000/data167_double15_double.jpg	[344 똥두현 연일다도 이초려알에 쒸m m 	0.0000
+resize_line_chatwin1000/data167_double16_double.jpg	[34:49] 동두천 뭔밀대포 (즈리얼 그냥 	0.0052
+resize_line_chatwin1000/data167_double17_double.jpg	[32:46] fiksif (녹턴 제발    	0.1436
+resize_line_chatwin1000/data167_double18_double.jpg	[32:28] vfski (녹턴) 왜 안지는 거야 	0.1340
+resize_line_chatwin1000/data167_double_double.jpg	[32:02] 동두천 원밀대표 (이즈리얼): 솨	0.0214
+resize_line_chatwin1000/data168_double2_double.jpg	[14:22] 다 피피라나 내가 생각한밀이 아닌데 죶	0.0036
+resize_line_chatwin1000/data168_double3_double.jpg	[20:17 ykhia 이이적리얼 난 저거랑 이길생각없는 	0.0026
+resize_line_chatwin1000/data168_double4_double.jpg	[14:44 작다 피오라사 카이사 왜케 쌰냐 쎅	0.0162
+resize_line_chatwin1000/data168_double5_double.jpg	[14:33] 깎 다 (피오라)야       	0.7540
+resize_line_chatwin1000/data168_double_double.jpg	[04:40] cow] fakai이 (싸률리스 시끗하이지 죶	0.0000
+resize_line_chatwin1000/data169_double2_double.jpg	[10:00] [57: 동두천 원밀대표 이즈리얼 위치 졷	0.0000
+resize_line_chatwin1000/data169_double3_double.jpg	[10:0 전체 동두천 뭔일대도 이즈리얼 바털	0.0519
+resize_line_chatwin1000/data169_double4_double.jpg	[11:5 ]세 동두천 뭔밀대트 이즈리얼 레드	0.0077
+resize_line_chatwin1000/data169_double5_double.jpg	[10:01] 전전체 동두천 뭔일대포 이즈리얼 강피	0.0071
+resize_line_chatwin1000/data169_double6_double.jpg	[11: 전체 동두천 뭔일대도 (이즈리얼 녹둔 ^	0.0484
+resize_line_chatwin1000/data169_double7_double.jpg	[11:0 ] 세체i 동두 원밀대드 (이즈리얼)	0.0004
+resize_line_chatwin1000/data169_double8_double.jpg	[11:40] 정치 동두한 원일대도 이즈리얼 다해트	0.0008
+resize_line_chatwin1000/data169_double9_double.jpg	[10:50] 전체 동두천 원답대도 (이즈리얼 사오센	0.0023
+resize_line_chatwin1000/data169_double10_double.jpg	[10:4 ]제1 동두천 원밀대도 (이즈리얼 인장	0.0037
+resize_line_chatwin1000/data169_double11_double.jpg	[01: 0겠게 동두한 뭔일어도 (이즈리얼 먹을듯	0.0009
+resize_line_chatwin1000/data169_double_double.jpg	[11:00] 전체 동두천 뭔밀대드 (이즈리얼 보티핑	0.0003
+resize_line_chatwin1000/data170_double2_double.jpg	[00:08] 동두천 원딜대포 (이즈리얼 개뇸	0.1302
+resize_line_chatwin1000/data170_double3_double.jpg	[00:08] 동두천 뭔밀대포 (이즈리얼 제 스라스 ;	0.0107
+resize_line_chatwin1000/data170_double4_double.jpg	(28:35] 동두천 원밀대표 (이즈리얼): 졷	0.0106
+resize_line_chatwin1000/data170_double5_double.jpg	[24:0]] 등두천 뭔일대도 (이즈리얼) 끌어드린 졷	0.0024
+resize_line_chatwin1000/data170_double6_double.jpg	[09:44] 동두천 원밀대포 (이즈리얼): 어때써 씝	0.0021
+resize_line_chatwin1000/data170_double7_double.jpg	[29:58] 오태식이 (레넥톤): 국음   	0.1666
+resize_line_chatwin1000/data170_double8_double.jpg	! [00] 동두현 원일하도 이즈려얼 쇄 m =팏	0.0000
+resize_line_chatwin1000/data170_double9_double.jpg	[30:09] 동두천 원밀대표 (이즈리얼): 역겹네	0.4208
+resize_line_chatwin1000/data170_double10_double.jpg	씝 [29:03] ufkif (녹턴님님 가고 있음	0.0263
+resize_line_chatwin1000/data170_double11_double.jpg	[28:40] 동두췬 뭔밀대표 (이즈리얼어 개꿀 쎅	0.0022
+resize_line_chatwin1000/data170_double_double.jpg	[30:0 ]두천 원밀대표 (이즈리얼 르아  	0.0426
+resize_line_chatwin1000/data171_double2_double.jpg	[01:1 전체 동두건 뭔알대도 (이르리얼 골드에	0.0155
+resize_line_chatwin1000/data171_double3_double.jpg	[00:40] 정쳐 긴가인가하면서 (트의치 인정 죶	0.0040
+resize_line_chatwin1000/data171_double4_double.jpg	[10:06] [겠체] 길치소탱 (레오나) 뭔일질하면데	0.0005
+resize_line_chatwin1000/data171_double5_double.jpg	[16: 전체 뒤두천 뭔일대도 (이즈리얼 (럭있는 쎅	0.0006
+resize_line_chatwin1000/data171_double6_double.jpg	[00:33:31] 지기 한카한면 세트): 런인하먹들면 (이보	0.0000
+resize_line_chatwin1000/data171_double7_double.jpg	(08f 0전계 동두 원일대표 (이즈리얼) 늙며 뇨	0.0000
+resize_line_chatwin1000/data171_double8_double.jpg	[00: 0져 달두현 원답대는 (즈리얼    	0.0001
+resize_line_chatwin1000/data171_double9_double.jpg	[02:1 ]31 달두면 월대로지 (입냐늠 씨팏	0.0000
+resize_line_chatwin1000/data171_double10_double.jpg	[10: 적발 제라스 넘 의드 원로 원로시간 t	0.0014
+resize_line_chatwin1000/data171_double11_double.jpg	[10:00] 전집계 동두헌 뭔답대표 (이즈리얼): 게입안	0.0038
+resize_line_chatwin1000/data171_double12_double.jpg	[09:53] (전체 김치스탕 (레오나) 써형 	0.0171
+resize_line_chatwin1000/data171_double13_double.jpg	[09551 ufkis (녹턴 님이 가고 있음	0.0309
+resize_line_chatwin1000/data171_double14_double.jpg	[06:66] 전체 동두천 원밀대표 (이즈리얼) 이	0.0089
+resize_line_chatwin1000/data171_double_double.jpg	[00:00] 전체 동두건 원일대드 이이즈리얼 서못이랑	0.0008
+resize_line_chatwin1000/data172_double2_double.jpg	[03:11] 쾨 (엘리스 님이 전령의 눈을 파괴겠습니다 ^	0.0000
+resize_line_chatwin1000/data172_double3_double.jpg	[00:25] kokia (이즈리얼 이가서: 건드르는데 정미드갈 졷	0.0003
+resize_line_chatwin1000/data172_double4_double.jpg	이제 신호를 무시합니다 ikokia ,    	0.1937
+resize_line_chatwin1000/data172_double5_double.jpg	[10:03] koxia (이즈리얼) 경나가삽	0.3631
+resize_line_chatwin1000/data172_double6_double.jpg	[11:24] 꼰 성 (요네):저저테     	0.8767
+resize_line_chatwin1000/data172_double7_double.jpg	[11:34] kokia (이즈리얼 템참 시 	0.0246
+resize_line_chatwin1000/data172_double8_double.jpg	[11:26] 꼰 성 (요네) 그래요     	0.9849
+resize_line_chatwin1000/data172_double9_double.jpg	[11:23] 꼰 성 (요네): 근데왜    	0.9725
+resize_line_chatwin1000/data172_double10_double.jpg	[11:09] 꼰 성 요요네) 그래요     	0.3756
+resize_line_chatwin1000/data172_double11_double.jpg	[11:09] 꼰 성 (외네): 왜올라와서  	0.3862
+resize_line_chatwin1000/data172_double12_double.jpg	[11:20] kokia (이즈리얼): 서쿡이 s건들잖슴	0.0249
+resize_line_chatwin1000/data172_double13_double.jpg	[11:15] 깎 다 (피오라) 아 건들수도 이	0.3925
+resize_line_chatwin1000/data172_double_double.jpg	이제 감정포현을 무시합니다 yoxial    	0.3062
+resize_line_chatwin1000/data173_double2_double.jpg	[10:26] koxia (이즈리얼): 이거스 건	0.1418
+resize_line_chatwin1000/data173_double3_double.jpg	[10:03] kovkia (이즈리얼): 강나가삼 	0.2736
+resize_line_chatwin1000/data173_double4_double.jpg	이제 감정표현을 무시합니다 lokia'    	0.3198
+resize_line_chatwin1000/data173_double5_double.jpg	[11:23] 꼰 성 (요네): 근데왜    	0.9421
+resize_line_chatwin1000/data173_double6_double.jpg	[11:24] 꼰 성 (요네) 저한테     	0.5311
+resize_line_chatwin1000/data173_double7_double.jpg	[11:16] 꼰 성 (요네) 그래요     	0.4174
+resize_line_chatwin1000/data173_double8_double.jpg	[11:25] 깎 다 (피오라): 아들수도 이	0.2604
+resize_line_chatwin1000/data173_double9_double.jpg	[11:20] hokia (이즈리얼 서 이표이 s신들잡슴	0.0017
+resize_line_chatwin1000/data173_double10_double.jpg	] 신호를 무시합니다 ikokia)      	0.0197
+resize_line_chatwin1000/data173_double11_double.jpg	[11:09] 꼰 성 (요네) 그래요     	0.9102
+resize_line_chatwin1000/data173_double12_double.jpg	[11:09] 꼰 성 (요네): 왜올라와서 씝	0.3349
+resize_line_chatwin1000/data173_double13_double.jpg	[11:34] kokia (이즈리얼 템끔 시 	0.2562
+resize_line_chatwin1000/data173_double_double.jpg	[06:33] 테 (려스스 님이 전립의 는을 파괴겠습니다	0.0006
+resize_line_chatwin1000/data174_double2_double.jpg	[28:40] 등두컨 원밀대포 (이즈리얼 (꿀 ,	0.0001
+resize_line_chatwin1000/data174_double3_double.jpg	[29:00] 동두천 원일대표 (이즈리얼 끌어드린 *	0.0092
+resize_line_chatwin1000/data174_double4_double.jpg	[09:44] 동두천 원달대토 이츠리얼): 어떠써	0.0326
+resize_line_chatwin1000/data174_double_double.jpg	[29:55] 동두천 뭔밀대표 (이즈리얼) 졷	0.0570
+resize_line_chatwin1000/data175_double2_double.jpg	구입 했습니다                  	0.9500
+resize_line_chatwin1000/data175_double3_double.jpg	[01:00] 흐럽지 위랑히 빅토로넘시 적이 싸것하고 알림 	0.0000
+resize_line_chatwin1000/data175_double4_double.jpg	[17:42] mukerr (헤카림) 저사집 가난집 가없냐	0.0010
+resize_line_chatwin1000/data175_double_double.jpg	(0::9] 오함지줄 우타님 먹토르님이 위럼 (함물보: 씝	0.0000
+resize_line_chatwin1000/data250_double2_double.jpg	[08:5 ]03] 죤잘자통이 (워윅 제라스 데려가라	0.0107
+resize_line_chatwin1000/data250_double3_double.jpg	[08:66] 전체 존질자튼이 (웨력 (섭다 씝	0.0000
+resize_line_chatwin1000/data250_double4_double.jpg	구입했습니다 죶                 	0.0706
+resize_line_chatwin1000/data250_double5_double.jpg	(0944 minxiocod (람머스닙이 가고 있음	0.1335
+resize_line_chatwin1000/data250_double6_double.jpg	[08:32] 멀히 서보면 푸준봄 (피오라): 아 	0.1406
+resize_line_chatwin1000/data250_double7_double.jpg	아닙니다 친구 씝                	0.2865
+resize_line_chatwin1000/data250_double8_double.jpg	[08: 쉑표밀 이즈리얼 미친색 m 스스   	0.0002
+resize_line_chatwin1000/data250_double9_double.jpg	[이이] 뵈꼴달 (이즈리얼 내가말       	0.0349
+resize_line_chatwin1000/data250_double10_double.jpg	( [28:37:17] 개통령 (창스): 체라쓰는 고렁게 하는게	0.0000
+resize_line_chatwin1000/data250_double11_double.jpg	[05:00] 빛좇데 이즈리얼 저거      	0.0076
+resize_line_chatwin1000/data250_double12_double.jpg	[07이0] 빛꽂밀 (이즈리얼 했지      	0.0069
+resize_line_chatwin1000/data250_double13_double.jpg	[08:44] 시낸촌 (신드하 정신병 있음 제라스	0.0789
+resize_line_chatwin1000/data250_double14_double.jpg	[09:11] 빚꼴밀 (이즈리얼): 문제았다고	0.1929
+resize_line_chatwin1000/data250_double_double.jpg	, [08:4 멀리시보면꾸꾸 본트븐 (외라라 오니 아잡다 쎅	0.0000
+resize_line_chatwin1000/data251_double2_double.jpg	[49:6] 짜 씌짜 스 신 (인전이 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데 안대는데	0.0133
+resize_line_chatwin1000/data251_double3_double.jpg	[23:44] 아무라인이나줘 (아리 년 브론존데 죶	0.0214
+resize_line_chatwin1000/data251_double4_double.jpg	, 991 아무라인이나나 (아해): 왜 끌든에어냐 졷	0.0000
+resize_line_chatwin1000/data251_double5_double.jpg	[22:41] 차쓰 짜 스 신신 무슨 내탓을하지을	0.0070
+resize_line_chatwin1000/data251_double6_double.jpg	[23:33] 이무라인이나줘 (아히): 수준떨어지는놈이	0.0640
+resize_line_chatwin1000/data251_double7_double.jpg	[24: 짜쓰 짜스 [3 저러니 골드겠지만  	0.0003
+resize_line_chatwin1000/data251_double8_double.jpg	[24:1e 찌씌쓰 스 스 진라스 씨에스에  	0.0180
+resize_line_chatwin1000/data251_double9_double.jpg	[21:20] 짜 쓰 짜스 시신 목쳐라교하나)	0.0208
+resize_line_chatwin1000/data251_double10_double.jpg	[21:20] 아무라인이나 (아리) 개벌레가 	0.5673
+resize_line_chatwin1000/data251_double11_double.jpg	미친듯이 나니까                 	0.9939
+resize_line_chatwin1000/data251_double12_double.jpg	씝 [24: 아무려인이나줘 시아하시 제타스고 니발이고 뭔말차이	0.0000
+resize_line_chatwin1000/data251_double13_double.jpg	[21:23] 짜 쓰 짜 스 (진): 니2을 	0.0401
+resize_line_chatwin1000/data251_double14_double.jpg	[21:1 ] 씌 짜 스 진 씨끼       	0.0037
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+resize_line_chatwin1000/data251_double_double.jpg	[23:15 아무라인이나 (아히) 누구 계정 벌려하	0.0164
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukerr (헤카림): 저사긴놔가없냐	0.1553
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data3.jpg         	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data3.jpg         	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/data4.jpg         	(림):ontw 말파이트 애미미 노 거키   	0.0010
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data3.jpg         	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/data4.jpg         	(림):ontw 말파이트 애미미 노 거키   	0.0010
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data3.jpg         	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/data4.jpg         	0i세병 비틀와 트 가킨 쎅          	0.0000
+images/data5.jpg         	[24:템 벼늘프인트 (가린 개시끼기     	0.0021
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data3-checkpoint.jpg	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/.ipynb_checkpoints/data4-checkpoint.jpg	0i세병 비틀와 트 가킨 쎅          	0.0000
+images/.ipynb_checkpoints/data5-checkpoint.jpg	[24:템 벼늘프인트 (가린 개시끼기     	0.0021
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data3.jpg         	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/data4.jpg         	0i세병 비틀와 트 가킨 쎅          	0.0000
+images/data5.jpg         	[24:템 벼늘프인트 (가린 개시끼기     	0.0021
+images/data6.jpg         	[01:림 버늘포인트 (가렌 애미       	0.0013
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+images/.ipynb_checkpoints/data3-checkpoint.jpg	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/.ipynb_checkpoints/data4-checkpoint.jpg	0i세병 비틀와 트 가킨 쎅          	0.0000
+images/.ipynb_checkpoints/data5-checkpoint.jpg	[24:템 벼늘프인트 (가린 개시끼기     	0.0021
+images/.ipynb_checkpoints/data-checkpoint.jpg	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048
+images/data2.jpg         	[17:32] mukern (헤카림): 저사긴뇌가없냐 `	0.0077
+images/data3.jpg         	[09:44] 시낸론 (신드라) 정신병 잇음 제라스):	0.0510
+images/data4.jpg         	0i세병 비틀와 트 가킨 쎅          	0.0000
+images/data5.jpg         	[24:템 벼늘프인트 (가린 개시끼기     	0.0021
+images/data6.jpg         	[01:림 버늘포인트 (가렌 애미       	0.0013
+images/data7.jpg         	082 팅 베블포인트 가런 애미        	0.0060
+images/data.jpg          	[06:57] 야 소오빠카 (아리): 에미 언계 죽으려음이	0.0048

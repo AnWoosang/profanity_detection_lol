@@ -1,0 +1,6 @@
+path: /home/dntkd857/workspace/MyFiles/yolo/yolov5/dataset/
+train: train/images
+test: test/images
+
+nc: 3
+names: ['chat_win','nickname','line']

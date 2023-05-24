@@ -1,0 +1,7 @@
+path: ./data
+train: images/train
+val:  images/valid
+
+
+nc: 2  # number of classes
+names: ['chat_win','nickname','lol_line', 'naver_line']  # class names
