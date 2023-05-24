@@ -35,21 +35,28 @@
 ```shell
 $ python3 detect.py --weights ./saved_models/chat_window_detector.pt --hide-labels --name chat_win --source image --classes 0 --save-crop --project ./chatwin --name result
 ```
-2) Resize<br> 작성 미완료
+2) Resize<br>
 ```shell
-$ python3 resize_chat_win.py 
+$ python3 resize.py --source chatwin/result/crop --output_dir resized_chatwin
 ```
 
 3) Chat Line Detection (yolo 디렉터리 내에서)<br>
 ```shell
-$ python3 detect.py --weights ./saved_models/line_detector.pt --hide-labels --name line_detect --source ./cropped_chatwin --save-crop --project ./chat_line --name result
+$ python3 detect.py --weights ./saved_models/line_detector.pt --hide-labels --name line_detect --source ./resized_chatwin --save-crop --project ./chat_line --name result
 ```
-4) Resize<br> 작성 미완료
+4) Resize<br>
+```shell
+$ python3 resize.py --source chat_line/result/crop --output_dir resized_chat_line
+```
+- resized_chat_line을 clova 디렉터리 하위로 이동<br>
+```shell
+$ mv resized_chat_line ../clova
+```
+<br><br>
 
 5) Text Recognition (clova 디렉터리 내에서)<br>
-<br>(IMAGE_SOURCE안에 Resize된 Chat Line들을 넣어 실행하세요)<br>
 ```shell
-$ python3 ./recognition/demo.py --image_folder IMAGE_SOURCE --saved_model ./saved_models/text_recognition.pth --Transformation None --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn
+$ python3 ./recognition/demo.py --image_folder resized_chat_line --saved_model ./saved_models/text_recognition.pth --Transformation None --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn
 ```
 <br><br><br>
 ## Output Example
