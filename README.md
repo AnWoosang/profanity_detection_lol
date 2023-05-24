@@ -16,11 +16,24 @@
 1) Chatting Window Detecting Model - (약 500개의 League of Legend 인게임 화면캡쳐 데이터를 통해 훈련된 모델)
 2) Chat Line Detecting Model - (약 1200개의 League of Legend 인게임 화면캡쳐 데이터를 통해 훈련된 모델)
 
+
 #### clovaai/deept-text-recognition-benchmark [https://github.com/clovaai/deep-text-recognition-benchmark.git]
 1) Text Recognition Model (제작한 한글 단어 데이터를 python3의 trdg로 조합해 만든 약 530만개의 문장 데이터를 통해 훈련된 모델)
   - None-ResNet-BiLSTM-Attn 옵션 모델
 <br>
 *훈련하고자 한다면 원래 Repository를 통해서 훈련 방법을 참고하세요
+<br><br>
+## Requirements
+- Yolo <br>
+```shell
+pip3 install torch opencv-python pandas tqdm torchvision matplotlib seaborn numpy pillow
+```
+<br><br>
+- Deep-text-recognition-benchmark<br>
+```shell
+pip3 install lmdb natsort
+```
+
 
 <br><br><br>
 ## Download Model
