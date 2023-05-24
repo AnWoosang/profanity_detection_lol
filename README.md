@@ -28,10 +28,17 @@
 
 <br>
 
+- install Requirements
+
+```shell
+pip3 install -r requirements.txt
+```
+(안될 경우 아래의 Command 사용)
+
 - Yolo <br>
 
 ```shell
-pip3 install torch opencv-python pandas tqdm torchvision matplotlib seaborn numpy pillow
+pip3 install torch opencv-python pandas tqdm torchvision matplotlib seaborn numpy pillow pyyaml
 ```
 <br><br>
 - Deep-text-recognition-benchmark<br>
