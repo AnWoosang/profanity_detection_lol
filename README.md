@@ -17,7 +17,7 @@
 2) Chat Line Detecting Model - (약 1200개의 League of Legend 인게임 화면캡쳐 데이터를 통해 훈련된 모델)
 
 
-#### clovaai/deept-text-recognition-benchmark [https://github.com/clovaai/deep-text-recognition-benchmark.git]
+#### clovaai/deep-text-recognition-benchmark [https://github.com/clovaai/deep-text-recognition-benchmark.git]
 1) Text Recognition Model (제작한 한글 단어 데이터를 python3의 trdg로 조합해 만든 약 530만개의 문장 데이터를 통해 훈련된 모델)
   - None-ResNet-BiLSTM-Attn 옵션 모델
 <br>
